@@ -1,4 +1,4 @@
-# 📈 Real-Time Stock Data Pipeline 
+# 📈 Real-Time Stock Data Pipeline with Apache Kafka on GCP
 
 Ce projet vise à construire une architecture de traitement **temps réel** pour l’analyse de données boursières, combinant **streaming Kafka**, **indexation Elasticsearch**, **visualisation Kibana**, et **modélisation ML avec BigQuery sur GCP**.
 
@@ -25,33 +25,32 @@ BigQuery ML Models
 
 ---
 
-## 🗂 Structure du projet
----
+### 📁 Structure du projet
+
+```text
 Real_time_stock_pipeline/
-├── kafka/
+├── kafka/                             # Scripts Kafka (producteur / consommateurs)
 │   ├── producer.py                    # Envoie les messages JSON dans Kafka
-│   ├── consumer.py                    # Consumer simple (debug terminal)
+│   ├── consumer.py                    # Consommateur simple (terminal)
 │   └── consumer_to_elasticsearch.py   # Consomme Kafka → indexe dans Elasticsearch
 │
-├── data/
-│   ├── stock_data_sample.json         # Données simulées envoyées dans Kafka
-│   └── README.md                      # Instructions pour log_inf.csv
+├── data/                              # Données JSON simulées utilisées dans Kafka
+│   └── stock_data_sample.json
 │
-├── elasticsearch_kibana/
-│   └── mapping_stock_stream.json      # Mapping personnalisé pour Elasticsearch
+├── elasticsearch_kibana/              # Configuration pour Elasticsearch + mapping
+│   └── mapping_stock_stream.json
 │
-├── gcp_bigquery/
-│   ├── upload_to_gcs.py                            # Upload JSON vers GCS
-│   ├── create_external_table.sql                   # Table externe BigQuery
-│   ├── train_price_regression_model.sql            # Régression linéaire
-│   ├── predict_price.sql                           # Prédiction du last_price
-│   ├── train_and_predict_timeseries.sql            # Modèle ARIMA simple
-│   └── train_and_predict_timeseries_multiseries.sql # ARIMA multi-instruments
+├── gcp_bigquery/                      # Partie GCP : GCS + BigQuery + ML
+│   ├── upload_to_gcs.py
+│   ├── create_external_table.sql
+│   ├── train_price_regression_model.sql
+│   ├── predict_price.sql
+│   ├── train_and_predict_timeseries.sql
+│   └── train_and_predict_timeseries_multiseries.sql
 │
-├── docker-compose.yml                # Conteneurisation de Kafka, ES, Kibana
-└── README.md                         # Documentation du projet
----
-
+├── docker-compose.yml                 # Lancement de Kafka, Elasticsearch, Kibana
+└── README.md                          # Documentation du projet
+```
 ## ⚙️ Fonctionnement étape par étape
 
 ### 1. Kafka Streaming (Python)
