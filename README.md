@@ -58,7 +58,7 @@ Real_time_stock_pipeline/
 - `producer.py` lit un fichier JSON simulé et envoie des messages sur le topic `stock-stream`
 - `consumer_to_elasticsearch.py` consomme ce flux et l’indexe en direct dans Elasticsearch
 
-### 2. Elasticsearch + Kibana
+### 2. Elasticsearch + Kibana 3.Google Cloud Platform (GCS + BigQuery ML)
 
 - Un **mapping personnalisé** (`mapping_stock_stream.json`) est appliqué via cURL :
 
@@ -67,7 +67,10 @@ curl -X PUT http://localhost:9200/_index_template/stock-stream-template \
   -H "Content-Type: application/json" \
   -d @elasticsearch_kibana/mapping_stock_stream.json 
 
-### 3. Google Cloud Platform (GCS + BigQuery ML)
+```
+
+### 3.Google Cloud Platform (GCS + BigQuery ML)
+
 
 #### a. 📦 Stockage dans GCS
 - Le fichier `stock_data_sample.json` est uploadé via `upload_to_gcs.py`
