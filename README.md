@@ -29,26 +29,27 @@ BigQuery ML Models
 
 Real_time_stock_pipeline/
 ├── kafka/
-│   ├── producer.py                  # Envoie les messages JSON dans Kafka
-│   ├── consumer.py                  # Consumer simple (debug terminal)
-│   └── consumer_to_elasticsearch.py # Consomme Kafka → indexe dans Elasticsearch
+│   ├── producer.py                    # Envoie les messages JSON dans Kafka
+│   ├── consumer.py                    # Consumer simple (debug terminal)
+│   └── consumer_to_elasticsearch.py   # Consomme Kafka → indexe dans Elasticsearch
 │
 ├── data/
-│   └── stock_data_sample.json       # Données simulées utilisées dans Kafka
+│   ├── stock_data_sample.json         # Données simulées envoyées dans Kafka
+│   └── README.md                      # Instructions pour log_inf.csv
 │
 ├── elasticsearch_kibana/
-│   └── mapping_stock_stream.json    # Mapping personnalisé Elasticsearch
+│   └── mapping_stock_stream.json      # Mapping personnalisé pour Elasticsearch
 │
 ├── gcp_bigquery/
-│   ├── upload_to_gcs.py                           # Envoie les JSON vers GCS
-│   ├── create_external_table.sql                  # Table externe BigQuery
-│   ├── train_price_regression_model.sql           # Régression linéaire
-│   ├── predict_price.sql                          # Prédictions supervisées
-│   ├── train_and_predict_timeseries.sql           # Modèle ARIMA simple
+│   ├── upload_to_gcs.py                            # Upload JSON vers GCS
+│   ├── create_external_table.sql                   # Table externe BigQuery
+│   ├── train_price_regression_model.sql            # Régression linéaire
+│   ├── predict_price.sql                           # Prédiction du last_price
+│   ├── train_and_predict_timeseries.sql            # Modèle ARIMA simple
 │   └── train_and_predict_timeseries_multiseries.sql # ARIMA multi-instruments
 │
-├── docker-compose.yml
-└── README.md
+├── docker-compose.yml                # Conteneurisation de Kafka, ES, Kibana
+└── README.md                         # Documentation du projet
 ---
 
 ## ⚙️ Fonctionnement étape par étape
