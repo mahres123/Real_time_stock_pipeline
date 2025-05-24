@@ -1,4 +1,4 @@
-# 📈 Real-Time Stock Data Pipeline – Projet Universitaire
+# 📈 Real-Time Stock Data Pipeline 
 
 Ce projet vise à construire une architecture de traitement **temps réel** pour l’analyse de données boursières, combinant **streaming Kafka**, **indexation Elasticsearch**, **visualisation Kibana**, et **modélisation ML avec BigQuery sur GCP**.
 
