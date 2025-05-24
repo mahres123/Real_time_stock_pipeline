@@ -1,0 +1,7002 @@
+[
+  {
+    "timestamp": "2017-06-20 07:35:05.284824",
+    "instrument_token": 136519172,
+    "last_price": 253.95,
+    "volume": 53611,
+    "sell_quantity": 63121,
+    "last_quantity": 10,
+    "change": 0.019692792438,
+    "average_price": 253.84,
+    "open": 254.0,
+    "high": 254.95,
+    "low": 253.1,
+    "close": 253.9,
+    "depth": {
+      "buy": [
+        {
+          "price": 253.7,
+          "orders": 3,
+          "quantity": 1068
+        },
+        {
+          "price": 253.6,
+          "orders": 4,
+          "quantity": 958
+        },
+        {
+          "price": 253.55,
+          "orders": 2,
+          "quantity": 212
+        },
+        {
+          "price": 253.5,
+          "orders": 6,
+          "quantity": 610
+        },
+        {
+          "price": 253.45,
+          "orders": 4,
+          "quantity": 737
+        }
+      ],
+      "sell": [
+        {
+          "price": 253.95,
+          "orders": 3,
+          "quantity": 695
+        },
+        {
+          "price": 254.0,
+          "orders": 5,
+          "quantity": 897
+        },
+        {
+          "price": 254.05,
+          "orders": 2,
+          "quantity": 268
+        },
+        {
+          "price": 254.1,
+          "orders": 7,
+          "quantity": 1107
+        },
+        {
+          "price": 254.15,
+          "orders": 3,
+          "quantity": 532
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.284898",
+    "instrument_token": 340481,
+    "last_price": 1637.2,
+    "volume": 1416334,
+    "sell_quantity": 187898,
+    "last_quantity": 8,
+    "change": -1.0276870995,
+    "average_price": 1639.52,
+    "open": 1651.15,
+    "high": 1660.0,
+    "low": 1633.55,
+    "close": 1654.2,
+    "depth": {
+      "buy": [
+        {
+          "price": 1637.15,
+          "orders": 5,
+          "quantity": 20
+        },
+        {
+          "price": 1637.05,
+          "orders": 1,
+          "quantity": 141
+        },
+        {
+          "price": 1637.0,
+          "orders": 2,
+          "quantity": 246
+        },
+        {
+          "price": 1636.85,
+          "orders": 1,
+          "quantity": 61
+        },
+        {
+          "price": 1636.8,
+          "orders": 2,
+          "quantity": 519
+        }
+      ],
+      "sell": [
+        {
+          "price": 1637.2,
+          "orders": 7,
+          "quantity": 322
+        },
+        {
+          "price": 1637.25,
+          "orders": 3,
+          "quantity": 16
+        },
+        {
+          "price": 1637.3,
+          "orders": 2,
+          "quantity": 15
+        },
+        {
+          "price": 1637.4,
+          "orders": 1,
+          "quantity": 14
+        },
+        {
+          "price": 1637.5,
+          "orders": 1,
+          "quantity": 179
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.284931",
+    "instrument_token": 5215745,
+    "last_price": 253.8,
+    "volume": 538254,
+    "sell_quantity": 370374,
+    "last_quantity": 15,
+    "change": -0.0590667454223,
+    "average_price": 253.82,
+    "open": 254.45,
+    "high": 255.0,
+    "low": 253.0,
+    "close": 253.95,
+    "depth": {
+      "buy": [
+        {
+          "price": 253.75,
+          "orders": 6,
+          "quantity": 140
+        },
+        {
+          "price": 253.7,
+          "orders": 7,
+          "quantity": 1097
+        },
+        {
+          "price": 253.65,
+          "orders": 3,
+          "quantity": 451
+        },
+        {
+          "price": 253.6,
+          "orders": 6,
+          "quantity": 574
+        },
+        {
+          "price": 253.55,
+          "orders": 4,
+          "quantity": 1300
+        }
+      ],
+      "sell": [
+        {
+          "price": 253.8,
+          "orders": 5,
+          "quantity": 560
+        },
+        {
+          "price": 253.85,
+          "orders": 1,
+          "quantity": 34
+        },
+        {
+          "price": 253.9,
+          "orders": 8,
+          "quantity": 1325
+        },
+        {
+          "price": 253.95,
+          "orders": 7,
+          "quantity": 1393
+        },
+        {
+          "price": 254.0,
+          "orders": 12,
+          "quantity": 4442
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.284960",
+    "instrument_token": 558337,
+    "last_price": 24855.75,
+    "volume": 10762,
+    "sell_quantity": 7807,
+    "last_quantity": 1,
+    "change": -0.800595457838,
+    "average_price": 24926.26,
+    "open": 25100.0,
+    "high": 25100.0,
+    "low": 24765.0,
+    "close": 25056.35,
+    "depth": {
+      "buy": [
+        {
+          "price": 24855.75,
+          "orders": 2,
+          "quantity": 2
+        },
+        {
+          "price": 24850.55,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 24850.5,
+          "orders": 1,
+          "quantity": 4
+        },
+        {
+          "price": 24850.1,
+          "orders": 1,
+          "quantity": 3
+        },
+        {
+          "price": 24850.0,
+          "orders": 1,
+          "quantity": 1
+        }
+      ],
+      "sell": [
+        {
+          "price": 24865.0,
+          "orders": 3,
+          "quantity": 11
+        },
+        {
+          "price": 24884.95,
+          "orders": 2,
+          "quantity": 8
+        },
+        {
+          "price": 24885.0,
+          "orders": 1,
+          "quantity": 13
+        },
+        {
+          "price": 24895.0,
+          "orders": 1,
+          "quantity": 22
+        },
+        {
+          "price": 24899.95,
+          "orders": 1,
+          "quantity": 50
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.284988",
+    "instrument_token": 1850625,
+    "last_price": 849.9,
+    "volume": 527008,
+    "sell_quantity": 129524,
+    "last_quantity": 1,
+    "change": 0.878338278932,
+    "average_price": 849.37,
+    "open": 845.0,
+    "high": 851.9,
+    "low": 843.0,
+    "close": 842.5,
+    "depth": {
+      "buy": [
+        {
+          "price": 849.6,
+          "orders": 1,
+          "quantity": 22
+        },
+        {
+          "price": 849.4,
+          "orders": 1,
+          "quantity": 58
+        },
+        {
+          "price": 849.35,
+          "orders": 1,
+          "quantity": 16
+        },
+        {
+          "price": 849.2,
+          "orders": 3,
+          "quantity": 132
+        },
+        {
+          "price": 849.15,
+          "orders": 1,
+          "quantity": 75
+        }
+      ],
+      "sell": [
+        {
+          "price": 849.9,
+          "orders": 2,
+          "quantity": 47
+        },
+        {
+          "price": 849.95,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 850.0,
+          "orders": 2,
+          "quantity": 1405
+        },
+        {
+          "price": 850.1,
+          "orders": 1,
+          "quantity": 24
+        },
+        {
+          "price": 850.15,
+          "orders": 1,
+          "quantity": 500
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285016",
+    "instrument_token": 128046596,
+    "last_price": 3802.4,
+    "volume": 6403,
+    "sell_quantity": 7473,
+    "last_quantity": 6,
+    "change": -0.618130970583,
+    "average_price": 3814.02,
+    "open": 3830.0,
+    "high": 3842.9,
+    "low": 3799.2,
+    "close": 3826.05,
+    "depth": {
+      "buy": [
+        {
+          "price": 3800.05,
+          "orders": 2,
+          "quantity": 20
+        },
+        {
+          "price": 3800.0,
+          "orders": 1,
+          "quantity": 86
+        },
+        {
+          "price": 3799.5,
+          "orders": 1,
+          "quantity": 86
+        },
+        {
+          "price": 3799.2,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 3799.0,
+          "orders": 1,
+          "quantity": 10
+        }
+      ],
+      "sell": [
+        {
+          "price": 3802.75,
+          "orders": 1,
+          "quantity": 3
+        },
+        {
+          "price": 3802.8,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 3802.9,
+          "orders": 1,
+          "quantity": 20
+        },
+        {
+          "price": 3803.0,
+          "orders": 1,
+          "quantity": 86
+        },
+        {
+          "price": 3803.4,
+          "orders": 1,
+          "quantity": 1
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285044",
+    "instrument_token": 128178180,
+    "last_price": 1098.7,
+    "volume": 10307,
+    "sell_quantity": 25065,
+    "last_quantity": 1,
+    "change": 0.301259813767,
+    "average_price": 1096.15,
+    "open": 1095.0,
+    "high": 1100.0,
+    "low": 1092.5,
+    "close": 1095.4,
+    "depth": {
+      "buy": [
+        {
+          "price": 1098.4,
+          "orders": 1,
+          "quantity": 14
+        },
+        {
+          "price": 1098.25,
+          "orders": 2,
+          "quantity": 104
+        },
+        {
+          "price": 1098.2,
+          "orders": 2,
+          "quantity": 99
+        },
+        {
+          "price": 1098.0,
+          "orders": 4,
+          "quantity": 184
+        },
+        {
+          "price": 1097.95,
+          "orders": 1,
+          "quantity": 40
+        }
+      ],
+      "sell": [
+        {
+          "price": 1099.45,
+          "orders": 1,
+          "quantity": 8
+        },
+        {
+          "price": 1099.5,
+          "orders": 1,
+          "quantity": 87
+        },
+        {
+          "price": 1099.6,
+          "orders": 1,
+          "quantity": 13
+        },
+        {
+          "price": 1099.7,
+          "orders": 1,
+          "quantity": 42
+        },
+        {
+          "price": 1099.75,
+          "orders": 1,
+          "quantity": 87
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285071",
+    "instrument_token": 129331204,
+    "last_price": 28089.0,
+    "volume": 1451,
+    "sell_quantity": 444,
+    "last_quantity": 2,
+    "change": -1.3209204286,
+    "average_price": 28244.53,
+    "open": 28450.0,
+    "high": 28539.95,
+    "low": 28054.05,
+    "close": 28465.0,
+    "depth": {
+      "buy": [
+        {
+          "price": 28070.1,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 28070.05,
+          "orders": 1,
+          "quantity": 3
+        },
+        {
+          "price": 28070.0,
+          "orders": 2,
+          "quantity": 14
+        },
+        {
+          "price": 28067.55,
+          "orders": 1,
+          "quantity": 3
+        },
+        {
+          "price": 28066.35,
+          "orders": 2,
+          "quantity": 6
+        }
+      ],
+      "sell": [
+        {
+          "price": 28090.0,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 28118.95,
+          "orders": 3,
+          "quantity": 16
+        },
+        {
+          "price": 28119.0,
+          "orders": 1,
+          "quantity": 9
+        },
+        {
+          "price": 28119.95,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 28124.7,
+          "orders": 2,
+          "quantity": 6
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285098",
+    "instrument_token": 128108804,
+    "last_price": 239.8,
+    "volume": 87646,
+    "sell_quantity": 167167,
+    "last_quantity": 190,
+    "change": 0.989682038324,
+    "average_price": 239.49,
+    "open": 237.5,
+    "high": 241.3,
+    "low": 236.65,
+    "close": 237.45,
+    "depth": {
+      "buy": [
+        {
+          "price": 239.7,
+          "orders": 5,
+          "quantity": 1580
+        },
+        {
+          "price": 239.65,
+          "orders": 5,
+          "quantity": 1288
+        },
+        {
+          "price": 239.6,
+          "orders": 3,
+          "quantity": 371
+        },
+        {
+          "price": 239.55,
+          "orders": 3,
+          "quantity": 768
+        },
+        {
+          "price": 239.5,
+          "orders": 5,
+          "quantity": 661
+        }
+      ],
+      "sell": [
+        {
+          "price": 239.95,
+          "orders": 2,
+          "quantity": 573
+        },
+        {
+          "price": 240.0,
+          "orders": 3,
+          "quantity": 639
+        },
+        {
+          "price": 240.05,
+          "orders": 1,
+          "quantity": 175
+        },
+        {
+          "price": 240.1,
+          "orders": 5,
+          "quantity": 518
+        },
+        {
+          "price": 240.15,
+          "orders": 1,
+          "quantity": 132
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285126",
+    "instrument_token": 128104964,
+    "last_price": 1648.0,
+    "volume": 4827,
+    "sell_quantity": 28696,
+    "last_quantity": 67,
+    "change": 0.447993173437,
+    "average_price": 1643.03,
+    "open": 1640.65,
+    "high": 1652.55,
+    "low": 1632.0,
+    "close": 1640.65,
+    "depth": {
+      "buy": [
+        {
+          "price": 1648.75,
+          "orders": 2,
+          "quantity": 15
+        },
+        {
+          "price": 1648.6,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 1648.45,
+          "orders": 1,
+          "quantity": 38
+        },
+        {
+          "price": 1648.4,
+          "orders": 2,
+          "quantity": 10
+        },
+        {
+          "price": 1648.0,
+          "orders": 2,
+          "quantity": 61
+        }
+      ],
+      "sell": [
+        {
+          "price": 1649.85,
+          "orders": 2,
+          "quantity": 37
+        },
+        {
+          "price": 1650.3,
+          "orders": 1,
+          "quantity": 3
+        },
+        {
+          "price": 1650.35,
+          "orders": 2,
+          "quantity": 35
+        },
+        {
+          "price": 1650.4,
+          "orders": 2,
+          "quantity": 44
+        },
+        {
+          "price": 1650.6,
+          "orders": 2,
+          "quantity": 7
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285153",
+    "instrument_token": 1207553,
+    "last_price": 377.15,
+    "volume": 1436981,
+    "sell_quantity": 252782,
+    "last_quantity": 26,
+    "change": -0.919479837121,
+    "average_price": 379.18,
+    "open": 380.65,
+    "high": 383.4,
+    "low": 375.1,
+    "close": 380.65,
+    "depth": {
+      "buy": [
+        {
+          "price": 377.15,
+          "orders": 4,
+          "quantity": 1445
+        },
+        {
+          "price": 377.1,
+          "orders": 2,
+          "quantity": 1095
+        },
+        {
+          "price": 377.05,
+          "orders": 4,
+          "quantity": 1784
+        },
+        {
+          "price": 377.0,
+          "orders": 40,
+          "quantity": 2900
+        },
+        {
+          "price": 376.95,
+          "orders": 4,
+          "quantity": 293
+        }
+      ],
+      "sell": [
+        {
+          "price": 377.3,
+          "orders": 6,
+          "quantity": 252
+        },
+        {
+          "price": 377.35,
+          "orders": 4,
+          "quantity": 136
+        },
+        {
+          "price": 377.4,
+          "orders": 3,
+          "quantity": 164
+        },
+        {
+          "price": 377.45,
+          "orders": 2,
+          "quantity": 406
+        },
+        {
+          "price": 377.5,
+          "orders": 13,
+          "quantity": 1739
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285180",
+    "instrument_token": 177665,
+    "last_price": 541.65,
+    "volume": 353911,
+    "sell_quantity": 130141,
+    "last_quantity": 1,
+    "change": 0.352014821677,
+    "average_price": 542.55,
+    "open": 539.75,
+    "high": 546.0,
+    "low": 536.0,
+    "close": 539.75,
+    "depth": {
+      "buy": [
+        {
+          "price": 541.5,
+          "orders": 3,
+          "quantity": 3
+        },
+        {
+          "price": 541.4,
+          "orders": 1,
+          "quantity": 25
+        },
+        {
+          "price": 541.35,
+          "orders": 3,
+          "quantity": 86
+        },
+        {
+          "price": 541.3,
+          "orders": 1,
+          "quantity": 63
+        },
+        {
+          "price": 541.25,
+          "orders": 4,
+          "quantity": 644
+        }
+      ],
+      "sell": [
+        {
+          "price": 541.65,
+          "orders": 1,
+          "quantity": 8
+        },
+        {
+          "price": 541.7,
+          "orders": 1,
+          "quantity": 6
+        },
+        {
+          "price": 541.8,
+          "orders": 3,
+          "quantity": 227
+        },
+        {
+          "price": 541.9,
+          "orders": 5,
+          "quantity": 444
+        },
+        {
+          "price": 541.95,
+          "orders": 4,
+          "quantity": 406
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285207",
+    "instrument_token": 136247044,
+    "last_price": 513.2,
+    "volume": 118679,
+    "sell_quantity": 81971,
+    "last_quantity": 13,
+    "change": -1.28870936719,
+    "average_price": 517.56,
+    "open": 521.0,
+    "high": 521.25,
+    "low": 512.4,
+    "close": 519.9,
+    "depth": {
+      "buy": [
+        {
+          "price": 513.05,
+          "orders": 3,
+          "quantity": 817
+        },
+        {
+          "price": 513.0,
+          "orders": 3,
+          "quantity": 474
+        },
+        {
+          "price": 512.9,
+          "orders": 4,
+          "quantity": 626
+        },
+        {
+          "price": 512.85,
+          "orders": 3,
+          "quantity": 1254
+        },
+        {
+          "price": 512.8,
+          "orders": 3,
+          "quantity": 126
+        }
+      ],
+      "sell": [
+        {
+          "price": 513.5,
+          "orders": 3,
+          "quantity": 279
+        },
+        {
+          "price": 513.6,
+          "orders": 3,
+          "quantity": 550
+        },
+        {
+          "price": 513.65,
+          "orders": 2,
+          "quantity": 563
+        },
+        {
+          "price": 513.7,
+          "orders": 3,
+          "quantity": 181
+        },
+        {
+          "price": 513.75,
+          "orders": 2,
+          "quantity": 894
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285234",
+    "instrument_token": 136427780,
+    "last_price": 375.0,
+    "volume": 126002,
+    "sell_quantity": 49552,
+    "last_quantity": 45,
+    "change": 0.3478726251,
+    "average_price": 374.53,
+    "open": 374.2,
+    "high": 377.75,
+    "low": 370.5,
+    "close": 373.7,
+    "depth": {
+      "buy": [
+        {
+          "price": 374.95,
+          "orders": 1,
+          "quantity": 222
+        },
+        {
+          "price": 374.9,
+          "orders": 5,
+          "quantity": 1318
+        },
+        {
+          "price": 374.85,
+          "orders": 4,
+          "quantity": 1458
+        },
+        {
+          "price": 374.8,
+          "orders": 3,
+          "quantity": 392
+        },
+        {
+          "price": 374.75,
+          "orders": 2,
+          "quantity": 55
+        }
+      ],
+      "sell": [
+        {
+          "price": 375.2,
+          "orders": 1,
+          "quantity": 75
+        },
+        {
+          "price": 375.3,
+          "orders": 1,
+          "quantity": 5
+        },
+        {
+          "price": 375.4,
+          "orders": 4,
+          "quantity": 150
+        },
+        {
+          "price": 375.45,
+          "orders": 2,
+          "quantity": 512
+        },
+        {
+          "price": 375.5,
+          "orders": 3,
+          "quantity": 156
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285261",
+    "instrument_token": 1510401,
+    "last_price": 513.2,
+    "volume": 2262625,
+    "sell_quantity": 547682,
+    "last_quantity": 11,
+    "change": -1.33615303278,
+    "average_price": 517.92,
+    "open": 520.2,
+    "high": 521.7,
+    "low": 512.25,
+    "close": 520.15,
+    "depth": {
+      "buy": [
+        {
+          "price": 513.15,
+          "orders": 5,
+          "quantity": 511
+        },
+        {
+          "price": 513.1,
+          "orders": 5,
+          "quantity": 822
+        },
+        {
+          "price": 513.05,
+          "orders": 1,
+          "quantity": 686
+        },
+        {
+          "price": 513.0,
+          "orders": 12,
+          "quantity": 5726
+        },
+        {
+          "price": 512.95,
+          "orders": 2,
+          "quantity": 936
+        }
+      ],
+      "sell": [
+        {
+          "price": 513.2,
+          "orders": 5,
+          "quantity": 461
+        },
+        {
+          "price": 513.35,
+          "orders": 1,
+          "quantity": 172
+        },
+        {
+          "price": 513.4,
+          "orders": 2,
+          "quantity": 706
+        },
+        {
+          "price": 513.45,
+          "orders": 6,
+          "quantity": 778
+        },
+        {
+          "price": 513.5,
+          "orders": 7,
+          "quantity": 2466
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285318",
+    "instrument_token": 3861249,
+    "last_price": 375.25,
+    "volume": 2963887,
+    "sell_quantity": 328467,
+    "last_quantity": 1,
+    "change": 0.387907972178,
+    "average_price": 374.51,
+    "open": 375.6,
+    "high": 377.7,
+    "low": 370.1,
+    "close": 373.8,
+    "depth": {
+      "buy": [
+        {
+          "price": 375.15,
+          "orders": 5,
+          "quantity": 527
+        },
+        {
+          "price": 375.1,
+          "orders": 1,
+          "quantity": 130
+        },
+        {
+          "price": 375.05,
+          "orders": 4,
+          "quantity": 448
+        },
+        {
+          "price": 375.0,
+          "orders": 8,
+          "quantity": 2335
+        },
+        {
+          "price": 374.95,
+          "orders": 1,
+          "quantity": 370
+        }
+      ],
+      "sell": [
+        {
+          "price": 375.25,
+          "orders": 1,
+          "quantity": 31
+        },
+        {
+          "price": 375.3,
+          "orders": 2,
+          "quantity": 104
+        },
+        {
+          "price": 375.35,
+          "orders": 1,
+          "quantity": 2500
+        },
+        {
+          "price": 375.4,
+          "orders": 2,
+          "quantity": 3067
+        },
+        {
+          "price": 375.45,
+          "orders": 4,
+          "quantity": 636
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285349",
+    "instrument_token": 128046084,
+    "last_price": 1686.0,
+    "volume": 19781,
+    "sell_quantity": 28387,
+    "last_quantity": 42,
+    "change": -0.316315369379,
+    "average_price": 1685.41,
+    "open": 1692.0,
+    "high": 1694.0,
+    "low": 1683.5,
+    "close": 1691.35,
+    "depth": {
+      "buy": [
+        {
+          "price": 1685.15,
+          "orders": 1,
+          "quantity": 50
+        },
+        {
+          "price": 1685.0,
+          "orders": 1,
+          "quantity": 29
+        },
+        {
+          "price": 1684.8,
+          "orders": 1,
+          "quantity": 7
+        },
+        {
+          "price": 1684.65,
+          "orders": 1,
+          "quantity": 90
+        },
+        {
+          "price": 1684.6,
+          "orders": 1,
+          "quantity": 36
+        }
+      ],
+      "sell": [
+        {
+          "price": 1686.0,
+          "orders": 2,
+          "quantity": 360
+        },
+        {
+          "price": 1686.05,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 1686.45,
+          "orders": 1,
+          "quantity": 88
+        },
+        {
+          "price": 1686.5,
+          "orders": 5,
+          "quantity": 495
+        },
+        {
+          "price": 1686.55,
+          "orders": 1,
+          "quantity": 15
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285377",
+    "instrument_token": 136308228,
+    "last_price": 366.3,
+    "volume": 67693,
+    "sell_quantity": 71990,
+    "last_quantity": 175,
+    "change": -0.2043318349,
+    "average_price": 367.91,
+    "open": 368.0,
+    "high": 370.4,
+    "low": 365.6,
+    "close": 367.05,
+    "depth": {
+      "buy": [
+        {
+          "price": 366.1,
+          "orders": 2,
+          "quantity": 208
+        },
+        {
+          "price": 366.05,
+          "orders": 1,
+          "quantity": 105
+        },
+        {
+          "price": 366.0,
+          "orders": 4,
+          "quantity": 509
+        },
+        {
+          "price": 365.95,
+          "orders": 1,
+          "quantity": 11
+        },
+        {
+          "price": 365.9,
+          "orders": 1,
+          "quantity": 70
+        }
+      ],
+      "sell": [
+        {
+          "price": 366.35,
+          "orders": 3,
+          "quantity": 224
+        },
+        {
+          "price": 366.4,
+          "orders": 1,
+          "quantity": 192
+        },
+        {
+          "price": 366.45,
+          "orders": 1,
+          "quantity": 105
+        },
+        {
+          "price": 366.5,
+          "orders": 2,
+          "quantity": 168
+        },
+        {
+          "price": 366.6,
+          "orders": 6,
+          "quantity": 878
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285404",
+    "instrument_token": 225537,
+    "last_price": 2672.7,
+    "volume": 85338,
+    "sell_quantity": 47227,
+    "last_quantity": 30,
+    "change": 0.573858398088,
+    "average_price": 2666.9,
+    "open": 2660.35,
+    "high": 2678.2,
+    "low": 2653.6,
+    "close": 2657.45,
+    "depth": {
+      "buy": [
+        {
+          "price": 2672.7,
+          "orders": 1,
+          "quantity": 19
+        },
+        {
+          "price": 2672.05,
+          "orders": 1,
+          "quantity": 13
+        },
+        {
+          "price": 2672.0,
+          "orders": 2,
+          "quantity": 96
+        },
+        {
+          "price": 2671.7,
+          "orders": 1,
+          "quantity": 3
+        },
+        {
+          "price": 2671.65,
+          "orders": 1,
+          "quantity": 1
+        }
+      ],
+      "sell": [
+        {
+          "price": 2672.75,
+          "orders": 3,
+          "quantity": 4
+        },
+        {
+          "price": 2672.8,
+          "orders": 4,
+          "quantity": 53
+        },
+        {
+          "price": 2672.9,
+          "orders": 4,
+          "quantity": 74
+        },
+        {
+          "price": 2672.95,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 2673.0,
+          "orders": 2,
+          "quantity": 25
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285431",
+    "instrument_token": 4267265,
+    "last_price": 2816.3,
+    "volume": 173558,
+    "sell_quantity": 71974,
+    "last_quantity": 4,
+    "change": -0.404915568915,
+    "average_price": 2817.02,
+    "open": 2810.0,
+    "high": 2827.95,
+    "low": 2806.5,
+    "close": 2827.75,
+    "depth": {
+      "buy": [
+        {
+          "price": 2816.2,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 2816.1,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 2816.05,
+          "orders": 2,
+          "quantity": 9
+        },
+        {
+          "price": 2816.0,
+          "orders": 2,
+          "quantity": 5
+        },
+        {
+          "price": 2815.95,
+          "orders": 1,
+          "quantity": 3
+        }
+      ],
+      "sell": [
+        {
+          "price": 2816.3,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 2816.6,
+          "orders": 3,
+          "quantity": 119
+        },
+        {
+          "price": 2816.7,
+          "orders": 3,
+          "quantity": 264
+        },
+        {
+          "price": 2816.8,
+          "orders": 1,
+          "quantity": 6
+        },
+        {
+          "price": 2816.9,
+          "orders": 1,
+          "quantity": 29
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285462",
+    "instrument_token": 128002564,
+    "last_price": 1636.55,
+    "volume": 27461,
+    "sell_quantity": 29130,
+    "last_quantity": 8,
+    "change": -1.03706839209,
+    "average_price": 1638.19,
+    "open": 1653.7,
+    "high": 1653.7,
+    "low": 1634.5,
+    "close": 1653.7,
+    "depth": {
+      "buy": [
+        {
+          "price": 1637.15,
+          "orders": 1,
+          "quantity": 23
+        },
+        {
+          "price": 1636.55,
+          "orders": 1,
+          "quantity": 43
+        },
+        {
+          "price": 1636.5,
+          "orders": 2,
+          "quantity": 119
+        },
+        {
+          "price": 1636.45,
+          "orders": 1,
+          "quantity": 15
+        },
+        {
+          "price": 1636.2,
+          "orders": 3,
+          "quantity": 120
+        }
+      ],
+      "sell": [
+        {
+          "price": 1637.65,
+          "orders": 2,
+          "quantity": 92
+        },
+        {
+          "price": 1637.75,
+          "orders": 2,
+          "quantity": 402
+        },
+        {
+          "price": 1638.0,
+          "orders": 1,
+          "quantity": 13
+        },
+        {
+          "price": 1638.15,
+          "orders": 1,
+          "quantity": 35
+        },
+        {
+          "price": 1638.2,
+          "orders": 1,
+          "quantity": 73
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285490",
+    "instrument_token": 2714625,
+    "last_price": 366.8,
+    "volume": 848641,
+    "sell_quantity": 306500,
+    "last_quantity": 1,
+    "change": -0.190476190476,
+    "average_price": 368.03,
+    "open": 368.75,
+    "high": 370.85,
+    "low": 366.1,
+    "close": 367.5,
+    "depth": {
+      "buy": [
+        {
+          "price": 366.75,
+          "orders": 11,
+          "quantity": 120
+        },
+        {
+          "price": 366.55,
+          "orders": 5,
+          "quantity": 248
+        },
+        {
+          "price": 366.5,
+          "orders": 2,
+          "quantity": 278
+        },
+        {
+          "price": 366.45,
+          "orders": 2,
+          "quantity": 771
+        },
+        {
+          "price": 366.4,
+          "orders": 5,
+          "quantity": 887
+        }
+      ],
+      "sell": [
+        {
+          "price": 366.8,
+          "orders": 1,
+          "quantity": 35
+        },
+        {
+          "price": 366.9,
+          "orders": 2,
+          "quantity": 115
+        },
+        {
+          "price": 366.95,
+          "orders": 2,
+          "quantity": 171
+        },
+        {
+          "price": 367.0,
+          "orders": 4,
+          "quantity": 613
+        },
+        {
+          "price": 367.05,
+          "orders": 2,
+          "quantity": 913
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285517",
+    "instrument_token": 136263940,
+    "last_price": 849.9,
+    "volume": 18681,
+    "sell_quantity": 30257,
+    "last_quantity": 2,
+    "change": 0.926255789099,
+    "average_price": 849.35,
+    "open": 842.0,
+    "high": 852.0,
+    "low": 842.0,
+    "close": 842.1,
+    "depth": {
+      "buy": [
+        {
+          "price": 849.3,
+          "orders": 2,
+          "quantity": 138
+        },
+        {
+          "price": 849.25,
+          "orders": 2,
+          "quantity": 270
+        },
+        {
+          "price": 849.2,
+          "orders": 1,
+          "quantity": 5
+        },
+        {
+          "price": 849.15,
+          "orders": 1,
+          "quantity": 15
+        },
+        {
+          "price": 849.0,
+          "orders": 3,
+          "quantity": 286
+        }
+      ],
+      "sell": [
+        {
+          "price": 849.9,
+          "orders": 4,
+          "quantity": 113
+        },
+        {
+          "price": 849.95,
+          "orders": 1,
+          "quantity": 18
+        },
+        {
+          "price": 850.0,
+          "orders": 3,
+          "quantity": 380
+        },
+        {
+          "price": 850.05,
+          "orders": 1,
+          "quantity": 14
+        },
+        {
+          "price": 850.1,
+          "orders": 1,
+          "quantity": 5
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285544",
+    "instrument_token": 70401,
+    "last_price": 658.0,
+    "volume": 1664167,
+    "sell_quantity": 375521,
+    "last_quantity": 40,
+    "change": 0.396704302716,
+    "average_price": 659.56,
+    "open": 660.0,
+    "high": 663.0,
+    "low": 653.5,
+    "close": 655.4,
+    "depth": {
+      "buy": [
+        {
+          "price": 657.95,
+          "orders": 4,
+          "quantity": 9
+        },
+        {
+          "price": 657.8,
+          "orders": 1,
+          "quantity": 61
+        },
+        {
+          "price": 657.7,
+          "orders": 1,
+          "quantity": 150
+        },
+        {
+          "price": 657.65,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 657.6,
+          "orders": 1,
+          "quantity": 20
+        }
+      ],
+      "sell": [
+        {
+          "price": 658.0,
+          "orders": 3,
+          "quantity": 205
+        },
+        {
+          "price": 658.1,
+          "orders": 1,
+          "quantity": 20
+        },
+        {
+          "price": 658.15,
+          "orders": 2,
+          "quantity": 68
+        },
+        {
+          "price": 658.2,
+          "orders": 3,
+          "quantity": 746
+        },
+        {
+          "price": 658.35,
+          "orders": 1,
+          "quantity": 402
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285571",
+    "instrument_token": 315393,
+    "last_price": 1138.4,
+    "volume": 805212,
+    "sell_quantity": 85395,
+    "last_quantity": 2,
+    "change": 1.88848115994,
+    "average_price": 1135.39,
+    "open": 1124.8,
+    "high": 1141.0,
+    "low": 1120.1,
+    "close": 1117.3,
+    "depth": {
+      "buy": [
+        {
+          "price": 1138.4,
+          "orders": 3,
+          "quantity": 32
+        },
+        {
+          "price": 1138.35,
+          "orders": 2,
+          "quantity": 23
+        },
+        {
+          "price": 1138.2,
+          "orders": 1,
+          "quantity": 11
+        },
+        {
+          "price": 1138.15,
+          "orders": 1,
+          "quantity": 182
+        },
+        {
+          "price": 1138.1,
+          "orders": 1,
+          "quantity": 182
+        }
+      ],
+      "sell": [
+        {
+          "price": 1139.0,
+          "orders": 3,
+          "quantity": 47
+        },
+        {
+          "price": 1139.15,
+          "orders": 1,
+          "quantity": 31
+        },
+        {
+          "price": 1139.25,
+          "orders": 1,
+          "quantity": 12
+        },
+        {
+          "price": 1139.35,
+          "orders": 1,
+          "quantity": 29
+        },
+        {
+          "price": 1139.4,
+          "orders": 2,
+          "quantity": 282
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285598",
+    "instrument_token": 60417,
+    "last_price": 1149.15,
+    "volume": 435480,
+    "sell_quantity": 116784,
+    "last_quantity": 1,
+    "change": -0.433219252264,
+    "average_price": 1149.49,
+    "open": 1155.1,
+    "high": 1156.85,
+    "low": 1146.75,
+    "close": 1154.15,
+    "depth": {
+      "buy": [
+        {
+          "price": 1149.15,
+          "orders": 2,
+          "quantity": 18
+        },
+        {
+          "price": 1149.1,
+          "orders": 1,
+          "quantity": 11
+        },
+        {
+          "price": 1149.05,
+          "orders": 1,
+          "quantity": 35
+        },
+        {
+          "price": 1148.9,
+          "orders": 2,
+          "quantity": 168
+        },
+        {
+          "price": 1148.85,
+          "orders": 2,
+          "quantity": 173
+        }
+      ],
+      "sell": [
+        {
+          "price": 1149.55,
+          "orders": 9,
+          "quantity": 55
+        },
+        {
+          "price": 1149.6,
+          "orders": 6,
+          "quantity": 15
+        },
+        {
+          "price": 1149.65,
+          "orders": 2,
+          "quantity": 262
+        },
+        {
+          "price": 1149.7,
+          "orders": 1,
+          "quantity": 50
+        },
+        {
+          "price": 1149.9,
+          "orders": 1,
+          "quantity": 500
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285625",
+    "instrument_token": 232961,
+    "last_price": 28065.0,
+    "volume": 15512,
+    "sell_quantity": 8432,
+    "last_quantity": 1,
+    "change": -1.33660512143,
+    "average_price": 28253.0,
+    "open": 28624.8,
+    "high": 28728.0,
+    "low": 28035.5,
+    "close": 28445.2,
+    "depth": {
+      "buy": [
+        {
+          "price": 28053.3,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 28053.25,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 28052.8,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 28052.25,
+          "orders": 2,
+          "quantity": 11
+        },
+        {
+          "price": 28052.2,
+          "orders": 1,
+          "quantity": 8
+        }
+      ],
+      "sell": [
+        {
+          "price": 28065.0,
+          "orders": 2,
+          "quantity": 10
+        },
+        {
+          "price": 28066.5,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 28069.95,
+          "orders": 1,
+          "quantity": 5
+        },
+        {
+          "price": 28070.0,
+          "orders": 3,
+          "quantity": 40
+        },
+        {
+          "price": 28077.2,
+          "orders": 1,
+          "quantity": 1
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285652",
+    "instrument_token": 128112644,
+    "last_price": 201.6,
+    "volume": 292777,
+    "sell_quantity": 133962,
+    "last_quantity": 100,
+    "change": 0.448430493274,
+    "average_price": 201.25,
+    "open": 201.4,
+    "high": 202.9,
+    "low": 199.5,
+    "close": 200.7,
+    "depth": {
+      "buy": [
+        {
+          "price": 201.6,
+          "orders": 4,
+          "quantity": 3934
+        },
+        {
+          "price": 201.55,
+          "orders": 4,
+          "quantity": 3011
+        },
+        {
+          "price": 201.5,
+          "orders": 6,
+          "quantity": 2390
+        },
+        {
+          "price": 201.45,
+          "orders": 9,
+          "quantity": 5609
+        },
+        {
+          "price": 201.4,
+          "orders": 8,
+          "quantity": 2917
+        }
+      ],
+      "sell": [
+        {
+          "price": 201.65,
+          "orders": 1,
+          "quantity": 100
+        },
+        {
+          "price": 201.7,
+          "orders": 2,
+          "quantity": 252
+        },
+        {
+          "price": 201.75,
+          "orders": 3,
+          "quantity": 896
+        },
+        {
+          "price": 201.8,
+          "orders": 8,
+          "quantity": 2660
+        },
+        {
+          "price": 201.85,
+          "orders": 6,
+          "quantity": 2728
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285679",
+    "instrument_token": 128031748,
+    "last_price": 2669.5,
+    "volume": 7112,
+    "sell_quantity": 9355,
+    "last_quantity": 7,
+    "change": 0.476127745262,
+    "average_price": 2665.87,
+    "open": 2664.0,
+    "high": 2676.75,
+    "low": 2653.2,
+    "close": 2656.85,
+    "depth": {
+      "buy": [
+        {
+          "price": 2670.45,
+          "orders": 1,
+          "quantity": 3
+        },
+        {
+          "price": 2670.35,
+          "orders": 1,
+          "quantity": 10
+        },
+        {
+          "price": 2670.05,
+          "orders": 1,
+          "quantity": 3
+        },
+        {
+          "price": 2669.5,
+          "orders": 2,
+          "quantity": 10
+        },
+        {
+          "price": 2669.4,
+          "orders": 1,
+          "quantity": 3
+        }
+      ],
+      "sell": [
+        {
+          "price": 2671.5,
+          "orders": 2,
+          "quantity": 96
+        },
+        {
+          "price": 2671.8,
+          "orders": 2,
+          "quantity": 49
+        },
+        {
+          "price": 2672.0,
+          "orders": 3,
+          "quantity": 117
+        },
+        {
+          "price": 2672.55,
+          "orders": 1,
+          "quantity": 3
+        },
+        {
+          "price": 2672.7,
+          "orders": 1,
+          "quantity": 14
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285706",
+    "instrument_token": 136442116,
+    "last_price": 2814.55,
+    "volume": 4128,
+    "sell_quantity": 9469,
+    "last_quantity": 2,
+    "change": -0.703827835597,
+    "average_price": 2817.08,
+    "open": 2815.0,
+    "high": 2822.4,
+    "low": 2810.0,
+    "close": 2834.5,
+    "depth": {
+      "buy": [
+        {
+          "price": 2814.55,
+          "orders": 2,
+          "quantity": 43
+        },
+        {
+          "price": 2814.5,
+          "orders": 4,
+          "quantity": 89
+        },
+        {
+          "price": 2814.3,
+          "orders": 2,
+          "quantity": 5
+        },
+        {
+          "price": 2814.05,
+          "orders": 1,
+          "quantity": 34
+        },
+        {
+          "price": 2814.0,
+          "orders": 3,
+          "quantity": 75
+        }
+      ],
+      "sell": [
+        {
+          "price": 2816.5,
+          "orders": 1,
+          "quantity": 25
+        },
+        {
+          "price": 2817.0,
+          "orders": 4,
+          "quantity": 139
+        },
+        {
+          "price": 2817.15,
+          "orders": 1,
+          "quantity": 35
+        },
+        {
+          "price": 2817.25,
+          "orders": 1,
+          "quantity": 72
+        },
+        {
+          "price": 2817.4,
+          "orders": 1,
+          "quantity": 52
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285733",
+    "instrument_token": 134657,
+    "last_price": 666.15,
+    "volume": 1558267,
+    "sell_quantity": 245741,
+    "last_quantity": 2,
+    "change": -0.149891328787,
+    "average_price": 667.49,
+    "open": 668.05,
+    "high": 671.85,
+    "low": 662.2,
+    "close": 667.15,
+    "depth": {
+      "buy": [
+        {
+          "price": 666.15,
+          "orders": 4,
+          "quantity": 536
+        },
+        {
+          "price": 665.9,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 665.85,
+          "orders": 1,
+          "quantity": 127
+        },
+        {
+          "price": 665.8,
+          "orders": 3,
+          "quantity": 335
+        },
+        {
+          "price": 665.75,
+          "orders": 2,
+          "quantity": 137
+        }
+      ],
+      "sell": [
+        {
+          "price": 666.4,
+          "orders": 2,
+          "quantity": 183
+        },
+        {
+          "price": 666.45,
+          "orders": 2,
+          "quantity": 243
+        },
+        {
+          "price": 666.5,
+          "orders": 2,
+          "quantity": 132
+        },
+        {
+          "price": 666.6,
+          "orders": 3,
+          "quantity": 745
+        },
+        {
+          "price": 666.65,
+          "orders": 1,
+          "quantity": 27
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285759",
+    "instrument_token": 341249,
+    "last_price": 1686.05,
+    "volume": 437172,
+    "sell_quantity": 116714,
+    "last_quantity": 239,
+    "change": -0.404631106386,
+    "average_price": 1685.84,
+    "open": 1690.0,
+    "high": 1690.8,
+    "low": 1683.4,
+    "close": 1692.9,
+    "depth": {
+      "buy": [
+        {
+          "price": 1686.0,
+          "orders": 1,
+          "quantity": 159
+        },
+        {
+          "price": 1685.9,
+          "orders": 1,
+          "quantity": 100
+        },
+        {
+          "price": 1685.7,
+          "orders": 1,
+          "quantity": 208
+        },
+        {
+          "price": 1685.65,
+          "orders": 1,
+          "quantity": 30
+        },
+        {
+          "price": 1685.6,
+          "orders": 1,
+          "quantity": 167
+        }
+      ],
+      "sell": [
+        {
+          "price": 1686.05,
+          "orders": 1,
+          "quantity": 72
+        },
+        {
+          "price": 1686.15,
+          "orders": 1,
+          "quantity": 53
+        },
+        {
+          "price": 1686.2,
+          "orders": 1,
+          "quantity": 35
+        },
+        {
+          "price": 1686.5,
+          "orders": 1,
+          "quantity": 400
+        },
+        {
+          "price": 1686.85,
+          "orders": 1,
+          "quantity": 60
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285786",
+    "instrument_token": 134349828,
+    "last_price": 657.5,
+    "volume": 131636,
+    "sell_quantity": 51105,
+    "last_quantity": 10,
+    "change": 0.343380389164,
+    "average_price": 658.9,
+    "open": 660.25,
+    "high": 662.95,
+    "low": 654.0,
+    "close": 655.25,
+    "depth": {
+      "buy": [
+        {
+          "price": 657.15,
+          "orders": 1,
+          "quantity": 107
+        },
+        {
+          "price": 657.1,
+          "orders": 1,
+          "quantity": 19
+        },
+        {
+          "price": 657.05,
+          "orders": 1,
+          "quantity": 148
+        },
+        {
+          "price": 656.9,
+          "orders": 1,
+          "quantity": 25
+        },
+        {
+          "price": 656.85,
+          "orders": 2,
+          "quantity": 95
+        }
+      ],
+      "sell": [
+        {
+          "price": 657.6,
+          "orders": 2,
+          "quantity": 169
+        },
+        {
+          "price": 657.7,
+          "orders": 1,
+          "quantity": 148
+        },
+        {
+          "price": 657.75,
+          "orders": 2,
+          "quantity": 299
+        },
+        {
+          "price": 657.8,
+          "orders": 1,
+          "quantity": 219
+        },
+        {
+          "price": 657.85,
+          "orders": 1,
+          "quantity": 111
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285820",
+    "instrument_token": 128022276,
+    "last_price": 540.6,
+    "volume": 21833,
+    "sell_quantity": 33284,
+    "last_quantity": 5,
+    "change": 0.268941852917,
+    "average_price": 542.44,
+    "open": 541.8,
+    "high": 545.0,
+    "low": 536.0,
+    "close": 539.15,
+    "depth": {
+      "buy": [
+        {
+          "price": 540.6,
+          "orders": 4,
+          "quantity": 125
+        },
+        {
+          "price": 540.55,
+          "orders": 1,
+          "quantity": 70
+        },
+        {
+          "price": 540.5,
+          "orders": 3,
+          "quantity": 560
+        },
+        {
+          "price": 540.45,
+          "orders": 3,
+          "quantity": 71
+        },
+        {
+          "price": 540.4,
+          "orders": 5,
+          "quantity": 1103
+        }
+      ],
+      "sell": [
+        {
+          "price": 541.2,
+          "orders": 2,
+          "quantity": 127
+        },
+        {
+          "price": 541.25,
+          "orders": 1,
+          "quantity": 187
+        },
+        {
+          "price": 541.4,
+          "orders": 1,
+          "quantity": 43
+        },
+        {
+          "price": 541.5,
+          "orders": 6,
+          "quantity": 475
+        },
+        {
+          "price": 541.55,
+          "orders": 3,
+          "quantity": 220
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285850",
+    "instrument_token": 128135684,
+    "last_price": 24878.1,
+    "volume": 270,
+    "sell_quantity": 398,
+    "last_quantity": 1,
+    "change": -0.461919175147,
+    "average_price": 24954.02,
+    "open": 25056.0,
+    "high": 25091.75,
+    "low": 24800.0,
+    "close": 24993.55,
+    "depth": {
+      "buy": [
+        {
+          "price": 24841.45,
+          "orders": 2,
+          "quantity": 4
+        },
+        {
+          "price": 24819.7,
+          "orders": 2,
+          "quantity": 7
+        },
+        {
+          "price": 24819.65,
+          "orders": 1,
+          "quantity": 4
+        },
+        {
+          "price": 24818.3,
+          "orders": 1,
+          "quantity": 16
+        },
+        {
+          "price": 24815.45,
+          "orders": 1,
+          "quantity": 8
+        }
+      ],
+      "sell": [
+        {
+          "price": 24878.45,
+          "orders": 2,
+          "quantity": 4
+        },
+        {
+          "price": 24879.9,
+          "orders": 1,
+          "quantity": 6
+        },
+        {
+          "price": 24880.0,
+          "orders": 1,
+          "quantity": 16
+        },
+        {
+          "price": 24896.3,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 24896.35,
+          "orders": 1,
+          "quantity": 4
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285880",
+    "instrument_token": 5633,
+    "last_price": 1650.45,
+    "volume": 109850,
+    "sell_quantity": 63012,
+    "last_quantity": 1,
+    "change": 0.539108187135,
+    "average_price": 1644.55,
+    "open": 1644.8,
+    "high": 1654.0,
+    "low": 1630.3,
+    "close": 1641.6,
+    "depth": {
+      "buy": [
+        {
+          "price": 1650.45,
+          "orders": 1,
+          "quantity": 95
+        },
+        {
+          "price": 1650.0,
+          "orders": 2,
+          "quantity": 51
+        },
+        {
+          "price": 1649.75,
+          "orders": 6,
+          "quantity": 74
+        },
+        {
+          "price": 1649.7,
+          "orders": 2,
+          "quantity": 23
+        },
+        {
+          "price": 1649.1,
+          "orders": 1,
+          "quantity": 30
+        }
+      ],
+      "sell": [
+        {
+          "price": 1650.55,
+          "orders": 1,
+          "quantity": 17
+        },
+        {
+          "price": 1650.6,
+          "orders": 1,
+          "quantity": 400
+        },
+        {
+          "price": 1650.65,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 1650.9,
+          "orders": 1,
+          "quantity": 6
+        },
+        {
+          "price": 1650.95,
+          "orders": 1,
+          "quantity": 1
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285908",
+    "instrument_token": 345089,
+    "last_price": 3801.5,
+    "volume": 134938,
+    "sell_quantity": 51034,
+    "last_quantity": 1,
+    "change": -0.62607013554,
+    "average_price": 3814.52,
+    "open": 3829.0,
+    "high": 3846.9,
+    "low": 3799.0,
+    "close": 3825.45,
+    "depth": {
+      "buy": [
+        {
+          "price": 3801.5,
+          "orders": 4,
+          "quantity": 23
+        },
+        {
+          "price": 3801.45,
+          "orders": 8,
+          "quantity": 15
+        },
+        {
+          "price": 3801.4,
+          "orders": 1,
+          "quantity": 30
+        },
+        {
+          "price": 3800.75,
+          "orders": 4,
+          "quantity": 18
+        },
+        {
+          "price": 3800.05,
+          "orders": 3,
+          "quantity": 37
+        }
+      ],
+      "sell": [
+        {
+          "price": 3801.8,
+          "orders": 5,
+          "quantity": 31
+        },
+        {
+          "price": 3801.9,
+          "orders": 1,
+          "quantity": 3
+        },
+        {
+          "price": 3802.0,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 3802.8,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 3803.0,
+          "orders": 2,
+          "quantity": 57
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285934",
+    "instrument_token": 1195009,
+    "last_price": 166.85,
+    "volume": 4487807,
+    "sell_quantity": 869921,
+    "last_quantity": 77,
+    "change": -0.714073192502,
+    "average_price": 166.76,
+    "open": 168.0,
+    "high": 168.6,
+    "low": 165.5,
+    "close": 168.05,
+    "depth": {
+      "buy": [
+        {
+          "price": 166.85,
+          "orders": 1,
+          "quantity": 200
+        },
+        {
+          "price": 166.8,
+          "orders": 13,
+          "quantity": 4124
+        },
+        {
+          "price": 166.75,
+          "orders": 11,
+          "quantity": 8681
+        },
+        {
+          "price": 166.7,
+          "orders": 14,
+          "quantity": 5830
+        },
+        {
+          "price": 166.65,
+          "orders": 7,
+          "quantity": 6612
+        }
+      ],
+      "sell": [
+        {
+          "price": 166.9,
+          "orders": 1,
+          "quantity": 114
+        },
+        {
+          "price": 166.95,
+          "orders": 16,
+          "quantity": 4142
+        },
+        {
+          "price": 167.0,
+          "orders": 19,
+          "quantity": 6949
+        },
+        {
+          "price": 167.05,
+          "orders": 11,
+          "quantity": 4270
+        },
+        {
+          "price": 167.1,
+          "orders": 17,
+          "quantity": 7643
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285963",
+    "instrument_token": 136231684,
+    "last_price": 377.3,
+    "volume": 64140,
+    "sell_quantity": 42355,
+    "last_quantity": 1,
+    "change": -0.893091673234,
+    "average_price": 379.18,
+    "open": 380.65,
+    "high": 383.55,
+    "low": 375.3,
+    "close": 380.7,
+    "depth": {
+      "buy": [
+        {
+          "price": 377.05,
+          "orders": 4,
+          "quantity": 558
+        },
+        {
+          "price": 377.0,
+          "orders": 6,
+          "quantity": 1260
+        },
+        {
+          "price": 376.95,
+          "orders": 1,
+          "quantity": 89
+        },
+        {
+          "price": 376.9,
+          "orders": 2,
+          "quantity": 198
+        },
+        {
+          "price": 376.8,
+          "orders": 3,
+          "quantity": 143
+        }
+      ],
+      "sell": [
+        {
+          "price": 377.45,
+          "orders": 2,
+          "quantity": 140
+        },
+        {
+          "price": 377.5,
+          "orders": 1,
+          "quantity": 55
+        },
+        {
+          "price": 377.55,
+          "orders": 1,
+          "quantity": 140
+        },
+        {
+          "price": 377.6,
+          "orders": 3,
+          "quantity": 244
+        },
+        {
+          "price": 377.65,
+          "orders": 3,
+          "quantity": 215
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.285989",
+    "instrument_token": 128140036,
+    "last_price": 666.05,
+    "volume": 44163,
+    "sell_quantity": 31845,
+    "last_quantity": 1,
+    "change": -0.187322044058,
+    "average_price": 667.22,
+    "open": 668.25,
+    "high": 671.95,
+    "low": 663.0,
+    "close": 667.3,
+    "depth": {
+      "buy": [
+        {
+          "price": 666.05,
+          "orders": 1,
+          "quantity": 86
+        },
+        {
+          "price": 666.0,
+          "orders": 1,
+          "quantity": 131
+        },
+        {
+          "price": 665.8,
+          "orders": 2,
+          "quantity": 140
+        },
+        {
+          "price": 665.75,
+          "orders": 3,
+          "quantity": 186
+        },
+        {
+          "price": 665.7,
+          "orders": 2,
+          "quantity": 160
+        }
+      ],
+      "sell": [
+        {
+          "price": 666.5,
+          "orders": 2,
+          "quantity": 93
+        },
+        {
+          "price": 666.55,
+          "orders": 1,
+          "quantity": 9
+        },
+        {
+          "price": 666.7,
+          "orders": 1,
+          "quantity": 90
+        },
+        {
+          "price": 666.75,
+          "orders": 3,
+          "quantity": 181
+        },
+        {
+          "price": 666.9,
+          "orders": 5,
+          "quantity": 503
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.286016",
+    "instrument_token": 128076804,
+    "last_price": 1137.4,
+    "volume": 21956,
+    "sell_quantity": 23033,
+    "last_quantity": 2,
+    "change": 1.94496728511,
+    "average_price": 1136.26,
+    "open": 1123.05,
+    "high": 1141.0,
+    "low": 1121.05,
+    "close": 1115.7,
+    "depth": {
+      "buy": [
+        {
+          "price": 1138.0,
+          "orders": 1,
+          "quantity": 10
+        },
+        {
+          "price": 1137.6,
+          "orders": 1,
+          "quantity": 6
+        },
+        {
+          "price": 1137.4,
+          "orders": 1,
+          "quantity": 5
+        },
+        {
+          "price": 1137.35,
+          "orders": 1,
+          "quantity": 52
+        },
+        {
+          "price": 1137.3,
+          "orders": 1,
+          "quantity": 49
+        }
+      ],
+      "sell": [
+        {
+          "price": 1139.0,
+          "orders": 2,
+          "quantity": 9
+        },
+        {
+          "price": 1139.25,
+          "orders": 1,
+          "quantity": 7
+        },
+        {
+          "price": 1139.45,
+          "orders": 2,
+          "quantity": 180
+        },
+        {
+          "price": 1139.5,
+          "orders": 3,
+          "quantity": 79
+        },
+        {
+          "price": 1139.6,
+          "orders": 1,
+          "quantity": 10
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.286043",
+    "instrument_token": 128209924,
+    "last_price": 1149.9,
+    "volume": 13845,
+    "sell_quantity": 18209,
+    "last_quantity": 2,
+    "change": -0.325055259394,
+    "average_price": 1150.25,
+    "open": 1158.0,
+    "high": 1158.0,
+    "low": 1147.05,
+    "close": 1153.65,
+    "depth": {
+      "buy": [
+        {
+          "price": 1149.4,
+          "orders": 1,
+          "quantity": 24
+        },
+        {
+          "price": 1149.35,
+          "orders": 2,
+          "quantity": 34
+        },
+        {
+          "price": 1149.3,
+          "orders": 1,
+          "quantity": 6
+        },
+        {
+          "price": 1149.25,
+          "orders": 2,
+          "quantity": 163
+        },
+        {
+          "price": 1149.0,
+          "orders": 1,
+          "quantity": 24
+        }
+      ],
+      "sell": [
+        {
+          "price": 1149.9,
+          "orders": 1,
+          "quantity": 31
+        },
+        {
+          "price": 1149.95,
+          "orders": 1,
+          "quantity": 51
+        },
+        {
+          "price": 1150.0,
+          "orders": 1,
+          "quantity": 5
+        },
+        {
+          "price": 1150.2,
+          "orders": 1,
+          "quantity": 37
+        },
+        {
+          "price": 1150.25,
+          "orders": 1,
+          "quantity": 112
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.286070",
+    "instrument_token": 7458561,
+    "last_price": 379.0,
+    "volume": 1080518,
+    "sell_quantity": 251160,
+    "last_quantity": 2,
+    "change": 0.65064400478,
+    "average_price": 378.62,
+    "open": 377.15,
+    "high": 381.5,
+    "low": 375.7,
+    "close": 376.55,
+    "depth": {
+      "buy": [
+        {
+          "price": 379.0,
+          "orders": 2,
+          "quantity": 4
+        },
+        {
+          "price": 378.95,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 378.8,
+          "orders": 1,
+          "quantity": 68
+        },
+        {
+          "price": 378.75,
+          "orders": 1,
+          "quantity": 71
+        },
+        {
+          "price": 378.7,
+          "orders": 1,
+          "quantity": 20
+        }
+      ],
+      "sell": [
+        {
+          "price": 379.15,
+          "orders": 4,
+          "quantity": 491
+        },
+        {
+          "price": 379.2,
+          "orders": 2,
+          "quantity": 178
+        },
+        {
+          "price": 379.25,
+          "orders": 4,
+          "quantity": 579
+        },
+        {
+          "price": 379.3,
+          "orders": 7,
+          "quantity": 818
+        },
+        {
+          "price": 379.35,
+          "orders": 1,
+          "quantity": 272
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.286096",
+    "instrument_token": 356865,
+    "last_price": 1098.85,
+    "volume": 543109,
+    "sell_quantity": 103193,
+    "last_quantity": 8,
+    "change": 0.292064071556,
+    "average_price": 1096.06,
+    "open": 1098.85,
+    "high": 1100.0,
+    "low": 1092.0,
+    "close": 1095.65,
+    "depth": {
+      "buy": [
+        {
+          "price": 1098.8,
+          "orders": 1,
+          "quantity": 56
+        },
+        {
+          "price": 1098.75,
+          "orders": 1,
+          "quantity": 259
+        },
+        {
+          "price": 1098.7,
+          "orders": 1,
+          "quantity": 161
+        },
+        {
+          "price": 1098.65,
+          "orders": 2,
+          "quantity": 73
+        },
+        {
+          "price": 1098.6,
+          "orders": 1,
+          "quantity": 56
+        }
+      ],
+      "sell": [
+        {
+          "price": 1098.85,
+          "orders": 1,
+          "quantity": 8
+        },
+        {
+          "price": 1098.9,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 1098.95,
+          "orders": 1,
+          "quantity": 11
+        },
+        {
+          "price": 1099.45,
+          "orders": 1,
+          "quantity": 30
+        },
+        {
+          "price": 1099.5,
+          "orders": 3,
+          "quantity": 47
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.286123",
+    "instrument_token": 325121,
+    "last_price": 240.05,
+    "volume": 980886,
+    "sell_quantity": 401346,
+    "last_quantity": 34,
+    "change": 0.946173254836,
+    "average_price": 239.83,
+    "open": 238.0,
+    "high": 241.55,
+    "low": 236.5,
+    "close": 237.8,
+    "depth": {
+      "buy": [
+        {
+          "price": 240.0,
+          "orders": 4,
+          "quantity": 2758
+        },
+        {
+          "price": 239.9,
+          "orders": 3,
+          "quantity": 133
+        },
+        {
+          "price": 239.85,
+          "orders": 2,
+          "quantity": 267
+        },
+        {
+          "price": 239.8,
+          "orders": 9,
+          "quantity": 4313
+        },
+        {
+          "price": 239.75,
+          "orders": 6,
+          "quantity": 3115
+        }
+      ],
+      "sell": [
+        {
+          "price": 240.1,
+          "orders": 2,
+          "quantity": 123
+        },
+        {
+          "price": 240.15,
+          "orders": 3,
+          "quantity": 2902
+        },
+        {
+          "price": 240.2,
+          "orders": 1,
+          "quantity": 321
+        },
+        {
+          "price": 240.25,
+          "orders": 4,
+          "quantity": 4545
+        },
+        {
+          "price": 240.3,
+          "orders": 5,
+          "quantity": 3762
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.286150",
+    "instrument_token": 348929,
+    "last_price": 201.7,
+    "volume": 4673971,
+    "sell_quantity": 1016529,
+    "last_quantity": 14,
+    "change": 0.423201394075,
+    "average_price": 201.14,
+    "open": 201.95,
+    "high": 202.9,
+    "low": 199.4,
+    "close": 200.85,
+    "depth": {
+      "buy": [
+        {
+          "price": 201.65,
+          "orders": 5,
+          "quantity": 13
+        },
+        {
+          "price": 201.6,
+          "orders": 5,
+          "quantity": 3268
+        },
+        {
+          "price": 201.55,
+          "orders": 12,
+          "quantity": 10193
+        },
+        {
+          "price": 201.5,
+          "orders": 14,
+          "quantity": 13429
+        },
+        {
+          "price": 201.45,
+          "orders": 7,
+          "quantity": 10383
+        }
+      ],
+      "sell": [
+        {
+          "price": 201.7,
+          "orders": 8,
+          "quantity": 1137
+        },
+        {
+          "price": 201.75,
+          "orders": 14,
+          "quantity": 4632
+        },
+        {
+          "price": 201.8,
+          "orders": 12,
+          "quantity": 5032
+        },
+        {
+          "price": 201.85,
+          "orders": 14,
+          "quantity": 17683
+        },
+        {
+          "price": 201.9,
+          "orders": 16,
+          "quantity": 21671
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.286178",
+    "instrument_token": 136226308,
+    "last_price": 166.9,
+    "volume": 310411,
+    "sell_quantity": 89086,
+    "last_quantity": 100,
+    "change": -0.654761904762,
+    "average_price": 167.08,
+    "open": 168.95,
+    "high": 168.95,
+    "low": 165.65,
+    "close": 168.0,
+    "depth": {
+      "buy": [
+        {
+          "price": 166.95,
+          "orders": 4,
+          "quantity": 2096
+        },
+        {
+          "price": 166.9,
+          "orders": 8,
+          "quantity": 2399
+        },
+        {
+          "price": 166.85,
+          "orders": 10,
+          "quantity": 3920
+        },
+        {
+          "price": 166.8,
+          "orders": 9,
+          "quantity": 3178
+        },
+        {
+          "price": 166.75,
+          "orders": 5,
+          "quantity": 2097
+        }
+      ],
+      "sell": [
+        {
+          "price": 167.1,
+          "orders": 3,
+          "quantity": 547
+        },
+        {
+          "price": 167.15,
+          "orders": 2,
+          "quantity": 901
+        },
+        {
+          "price": 167.2,
+          "orders": 5,
+          "quantity": 1961
+        },
+        {
+          "price": 167.25,
+          "orders": 6,
+          "quantity": 2892
+        },
+        {
+          "price": 167.3,
+          "orders": 11,
+          "quantity": 2883
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:05.286205",
+    "instrument_token": 136912900,
+    "last_price": 379.1,
+    "volume": 40746,
+    "sell_quantity": 83640,
+    "last_quantity": 25,
+    "change": 0.703944746978,
+    "average_price": 378.67,
+    "open": 378.0,
+    "high": 381.6,
+    "low": 375.7,
+    "close": 376.45,
+    "depth": {
+      "buy": [
+        {
+          "price": 378.8,
+          "orders": 4,
+          "quantity": 340
+        },
+        {
+          "price": 378.75,
+          "orders": 1,
+          "quantity": 54
+        },
+        {
+          "price": 378.7,
+          "orders": 1,
+          "quantity": 38
+        },
+        {
+          "price": 378.6,
+          "orders": 3,
+          "quantity": 182
+        },
+        {
+          "price": 378.5,
+          "orders": 6,
+          "quantity": 270
+        }
+      ],
+      "sell": [
+        {
+          "price": 379.4,
+          "orders": 4,
+          "quantity": 345
+        },
+        {
+          "price": 379.45,
+          "orders": 1,
+          "quantity": 131
+        },
+        {
+          "price": 379.5,
+          "orders": 1,
+          "quantity": 34
+        },
+        {
+          "price": 379.55,
+          "orders": 1,
+          "quantity": 112
+        },
+        {
+          "price": 379.6,
+          "orders": 5,
+          "quantity": 303
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:06.341991",
+    "instrument_token": 325121,
+    "last_price": 240.05,
+    "volume": 980886,
+    "sell_quantity": 401346,
+    "last_quantity": 34,
+    "change": 0.946173254836,
+    "average_price": 239.83,
+    "open": 238.0,
+    "high": 241.55,
+    "low": 236.5,
+    "close": 237.8,
+    "depth": {
+      "buy": [
+        {
+          "price": 240.0,
+          "orders": 4,
+          "quantity": 2758
+        },
+        {
+          "price": 239.95,
+          "orders": 1,
+          "quantity": 50
+        },
+        {
+          "price": 239.9,
+          "orders": 2,
+          "quantity": 83
+        },
+        {
+          "price": 239.85,
+          "orders": 4,
+          "quantity": 1737
+        },
+        {
+          "price": 239.8,
+          "orders": 10,
+          "quantity": 5323
+        }
+      ],
+      "sell": [
+        {
+          "price": 240.1,
+          "orders": 1,
+          "quantity": 42
+        },
+        {
+          "price": 240.15,
+          "orders": 3,
+          "quantity": 2902
+        },
+        {
+          "price": 240.2,
+          "orders": 2,
+          "quantity": 402
+        },
+        {
+          "price": 240.25,
+          "orders": 4,
+          "quantity": 4545
+        },
+        {
+          "price": 240.3,
+          "orders": 5,
+          "quantity": 3762
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:06.342070",
+    "instrument_token": 348929,
+    "last_price": 201.6,
+    "volume": 4674160,
+    "sell_quantity": 1016755,
+    "last_quantity": 27,
+    "change": 0.373412994772,
+    "average_price": 201.14,
+    "open": 201.95,
+    "high": 202.9,
+    "low": 199.4,
+    "close": 200.85,
+    "depth": {
+      "buy": [
+        {
+          "price": 201.6,
+          "orders": 5,
+          "quantity": 2837
+        },
+        {
+          "price": 201.55,
+          "orders": 12,
+          "quantity": 10193
+        },
+        {
+          "price": 201.5,
+          "orders": 14,
+          "quantity": 13429
+        },
+        {
+          "price": 201.45,
+          "orders": 7,
+          "quantity": 10383
+        },
+        {
+          "price": 201.4,
+          "orders": 18,
+          "quantity": 16102
+        }
+      ],
+      "sell": [
+        {
+          "price": 201.65,
+          "orders": 2,
+          "quantity": 39
+        },
+        {
+          "price": 201.7,
+          "orders": 6,
+          "quantity": 1075
+        },
+        {
+          "price": 201.75,
+          "orders": 15,
+          "quantity": 4881
+        },
+        {
+          "price": 201.8,
+          "orders": 12,
+          "quantity": 5032
+        },
+        {
+          "price": 201.85,
+          "orders": 14,
+          "quantity": 17683
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:06.342128",
+    "instrument_token": 340481,
+    "last_price": 1637.2,
+    "volume": 1416384,
+    "sell_quantity": 187395,
+    "last_quantity": 6,
+    "change": -1.0276870995,
+    "average_price": 1639.52,
+    "open": 1651.15,
+    "high": 1660.0,
+    "low": 1633.55,
+    "close": 1654.2,
+    "depth": {
+      "buy": [
+        {
+          "price": 1637.15,
+          "orders": 5,
+          "quantity": 20
+        },
+        {
+          "price": 1637.05,
+          "orders": 1,
+          "quantity": 141
+        },
+        {
+          "price": 1637.0,
+          "orders": 2,
+          "quantity": 246
+        },
+        {
+          "price": 1636.8,
+          "orders": 1,
+          "quantity": 319
+        },
+        {
+          "price": 1636.75,
+          "orders": 1,
+          "quantity": 500
+        }
+      ],
+      "sell": [
+        {
+          "price": 1637.2,
+          "orders": 6,
+          "quantity": 319
+        },
+        {
+          "price": 1637.25,
+          "orders": 3,
+          "quantity": 16
+        },
+        {
+          "price": 1637.3,
+          "orders": 2,
+          "quantity": 15
+        },
+        {
+          "price": 1637.4,
+          "orders": 1,
+          "quantity": 14
+        },
+        {
+          "price": 1637.5,
+          "orders": 1,
+          "quantity": 179
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:06.342160",
+    "instrument_token": 558337,
+    "last_price": 24855.75,
+    "volume": 10762,
+    "sell_quantity": 7807,
+    "last_quantity": 1,
+    "change": -0.800595457838,
+    "average_price": 24926.26,
+    "open": 25100.0,
+    "high": 25100.0,
+    "low": 24765.0,
+    "close": 25056.35,
+    "depth": {
+      "buy": [
+        {
+          "price": 24855.75,
+          "orders": 2,
+          "quantity": 2
+        },
+        {
+          "price": 24852.15,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 24852.1,
+          "orders": 1,
+          "quantity": 4
+        },
+        {
+          "price": 24850.1,
+          "orders": 1,
+          "quantity": 3
+        },
+        {
+          "price": 24850.0,
+          "orders": 1,
+          "quantity": 1
+        }
+      ],
+      "sell": [
+        {
+          "price": 24865.0,
+          "orders": 3,
+          "quantity": 11
+        },
+        {
+          "price": 24884.95,
+          "orders": 2,
+          "quantity": 8
+        },
+        {
+          "price": 24885.0,
+          "orders": 1,
+          "quantity": 13
+        },
+        {
+          "price": 24895.0,
+          "orders": 1,
+          "quantity": 22
+        },
+        {
+          "price": 24899.95,
+          "orders": 1,
+          "quantity": 50
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:06.342188",
+    "instrument_token": 128178180,
+    "last_price": 1098.7,
+    "volume": 10307,
+    "sell_quantity": 25065,
+    "last_quantity": 1,
+    "change": 0.301259813767,
+    "average_price": 1096.15,
+    "open": 1095.0,
+    "high": 1100.0,
+    "low": 1092.5,
+    "close": 1095.4,
+    "depth": {
+      "buy": [
+        {
+          "price": 1098.4,
+          "orders": 1,
+          "quantity": 14
+        },
+        {
+          "price": 1098.25,
+          "orders": 2,
+          "quantity": 104
+        },
+        {
+          "price": 1098.2,
+          "orders": 1,
+          "quantity": 15
+        },
+        {
+          "price": 1098.05,
+          "orders": 1,
+          "quantity": 84
+        },
+        {
+          "price": 1098.0,
+          "orders": 4,
+          "quantity": 184
+        }
+      ],
+      "sell": [
+        {
+          "price": 1099.45,
+          "orders": 1,
+          "quantity": 8
+        },
+        {
+          "price": 1099.5,
+          "orders": 1,
+          "quantity": 87
+        },
+        {
+          "price": 1099.6,
+          "orders": 1,
+          "quantity": 13
+        },
+        {
+          "price": 1099.7,
+          "orders": 1,
+          "quantity": 42
+        },
+        {
+          "price": 1099.75,
+          "orders": 1,
+          "quantity": 87
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:06.342216",
+    "instrument_token": 129331204,
+    "last_price": 28089.0,
+    "volume": 1451,
+    "sell_quantity": 421,
+    "last_quantity": 2,
+    "change": -1.3209204286,
+    "average_price": 28244.53,
+    "open": 28450.0,
+    "high": 28539.95,
+    "low": 28054.05,
+    "close": 28465.0,
+    "depth": {
+      "buy": [
+        {
+          "price": 28070.1,
+          "orders": 2,
+          "quantity": 3
+        },
+        {
+          "price": 28070.05,
+          "orders": 1,
+          "quantity": 3
+        },
+        {
+          "price": 28070.0,
+          "orders": 2,
+          "quantity": 14
+        },
+        {
+          "price": 28067.55,
+          "orders": 1,
+          "quantity": 3
+        },
+        {
+          "price": 28066.35,
+          "orders": 1,
+          "quantity": 3
+        }
+      ],
+      "sell": [
+        {
+          "price": 28090.95,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 28091.0,
+          "orders": 2,
+          "quantity": 9
+        },
+        {
+          "price": 28092.5,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 28093.0,
+          "orders": 2,
+          "quantity": 9
+        },
+        {
+          "price": 28122.2,
+          "orders": 1,
+          "quantity": 6
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:06.342243",
+    "instrument_token": 128108804,
+    "last_price": 239.8,
+    "volume": 87646,
+    "sell_quantity": 167167,
+    "last_quantity": 190,
+    "change": 0.989682038324,
+    "average_price": 239.49,
+    "open": 237.5,
+    "high": 241.3,
+    "low": 236.65,
+    "close": 237.45,
+    "depth": {
+      "buy": [
+        {
+          "price": 239.7,
+          "orders": 5,
+          "quantity": 1580
+        },
+        {
+          "price": 239.65,
+          "orders": 5,
+          "quantity": 1288
+        },
+        {
+          "price": 239.6,
+          "orders": 3,
+          "quantity": 371
+        },
+        {
+          "price": 239.55,
+          "orders": 3,
+          "quantity": 768
+        },
+        {
+          "price": 239.5,
+          "orders": 6,
+          "quantity": 1169
+        }
+      ],
+      "sell": [
+        {
+          "price": 239.95,
+          "orders": 2,
+          "quantity": 573
+        },
+        {
+          "price": 240.0,
+          "orders": 3,
+          "quantity": 639
+        },
+        {
+          "price": 240.05,
+          "orders": 1,
+          "quantity": 175
+        },
+        {
+          "price": 240.1,
+          "orders": 4,
+          "quantity": 478
+        },
+        {
+          "price": 240.15,
+          "orders": 2,
+          "quantity": 172
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:06.342270",
+    "instrument_token": 128104964,
+    "last_price": 1648.0,
+    "volume": 4827,
+    "sell_quantity": 28670,
+    "last_quantity": 67,
+    "change": 0.447993173437,
+    "average_price": 1643.03,
+    "open": 1640.65,
+    "high": 1652.55,
+    "low": 1632.0,
+    "close": 1640.65,
+    "depth": {
+      "buy": [
+        {
+          "price": 1648.9,
+          "orders": 2,
+          "quantity": 11
+        },
+        {
+          "price": 1648.85,
+          "orders": 1,
+          "quantity": 5
+        },
+        {
+          "price": 1648.45,
+          "orders": 1,
+          "quantity": 38
+        },
+        {
+          "price": 1648.4,
+          "orders": 2,
+          "quantity": 10
+        },
+        {
+          "price": 1648.05,
+          "orders": 1,
+          "quantity": 22
+        }
+      ],
+      "sell": [
+        {
+          "price": 1649.85,
+          "orders": 2,
+          "quantity": 37
+        },
+        {
+          "price": 1650.3,
+          "orders": 2,
+          "quantity": 21
+        },
+        {
+          "price": 1650.35,
+          "orders": 1,
+          "quantity": 17
+        },
+        {
+          "price": 1650.4,
+          "orders": 2,
+          "quantity": 44
+        },
+        {
+          "price": 1650.6,
+          "orders": 1,
+          "quantity": 4
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:06.342297",
+    "instrument_token": 1207553,
+    "last_price": 377.3,
+    "volume": 1436990,
+    "sell_quantity": 252773,
+    "last_quantity": 9,
+    "change": -0.880073558387,
+    "average_price": 379.18,
+    "open": 380.65,
+    "high": 383.4,
+    "low": 375.1,
+    "close": 380.65,
+    "depth": {
+      "buy": [
+        {
+          "price": 377.2,
+          "orders": 1,
+          "quantity": 1000
+        },
+        {
+          "price": 377.15,
+          "orders": 4,
+          "quantity": 1445
+        },
+        {
+          "price": 377.1,
+          "orders": 2,
+          "quantity": 1095
+        },
+        {
+          "price": 377.05,
+          "orders": 4,
+          "quantity": 1784
+        },
+        {
+          "price": 377.0,
+          "orders": 40,
+          "quantity": 2900
+        }
+      ],
+      "sell": [
+        {
+          "price": 377.3,
+          "orders": 6,
+          "quantity": 243
+        },
+        {
+          "price": 377.35,
+          "orders": 4,
+          "quantity": 136
+        },
+        {
+          "price": 377.4,
+          "orders": 2,
+          "quantity": 139
+        },
+        {
+          "price": 377.45,
+          "orders": 2,
+          "quantity": 429
+        },
+        {
+          "price": 377.5,
+          "orders": 14,
+          "quantity": 1741
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:06.342324",
+    "instrument_token": 1510401,
+    "last_price": 513.2,
+    "volume": 2263552,
+    "sell_quantity": 548284,
+    "last_quantity": 6,
+    "change": -1.33615303278,
+    "average_price": 517.92,
+    "open": 520.2,
+    "high": 521.7,
+    "low": 512.25,
+    "close": 520.15,
+    "depth": {
+      "buy": [
+        {
+          "price": 513.15,
+          "orders": 4,
+          "quantity": 275
+        },
+        {
+          "price": 513.1,
+          "orders": 5,
+          "quantity": 822
+        },
+        {
+          "price": 513.0,
+          "orders": 9,
+          "quantity": 2388
+        },
+        {
+          "price": 512.95,
+          "orders": 2,
+          "quantity": 270
+        },
+        {
+          "price": 512.9,
+          "orders": 7,
+          "quantity": 2384
+        }
+      ],
+      "sell": [
+        {
+          "price": 513.35,
+          "orders": 1,
+          "quantity": 20
+        },
+        {
+          "price": 513.4,
+          "orders": 7,
+          "quantity": 1872
+        },
+        {
+          "price": 513.45,
+          "orders": 5,
+          "quantity": 1188
+        },
+        {
+          "price": 513.5,
+          "orders": 7,
+          "quantity": 2466
+        },
+        {
+          "price": 513.55,
+          "orders": 4,
+          "quantity": 1525
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:06.342355",
+    "instrument_token": 3861249,
+    "last_price": 375.25,
+    "volume": 2963887,
+    "sell_quantity": 328639,
+    "last_quantity": 1,
+    "change": 0.387907972178,
+    "average_price": 374.51,
+    "open": 375.6,
+    "high": 377.7,
+    "low": 370.1,
+    "close": 373.8,
+    "depth": {
+      "buy": [
+        {
+          "price": 375.15,
+          "orders": 5,
+          "quantity": 527
+        },
+        {
+          "price": 375.1,
+          "orders": 1,
+          "quantity": 130
+        },
+        {
+          "price": 375.05,
+          "orders": 3,
+          "quantity": 398
+        },
+        {
+          "price": 375.0,
+          "orders": 9,
+          "quantity": 2385
+        },
+        {
+          "price": 374.95,
+          "orders": 1,
+          "quantity": 370
+        }
+      ],
+      "sell": [
+        {
+          "price": 375.25,
+          "orders": 1,
+          "quantity": 31
+        },
+        {
+          "price": 375.3,
+          "orders": 2,
+          "quantity": 104
+        },
+        {
+          "price": 375.35,
+          "orders": 3,
+          "quantity": 5171
+        },
+        {
+          "price": 375.4,
+          "orders": 3,
+          "quantity": 1778
+        },
+        {
+          "price": 375.45,
+          "orders": 4,
+          "quantity": 636
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:06.342382",
+    "instrument_token": 4267265,
+    "last_price": 2816.3,
+    "volume": 173558,
+    "sell_quantity": 71974,
+    "last_quantity": 4,
+    "change": -0.404915568915,
+    "average_price": 2817.02,
+    "open": 2810.0,
+    "high": 2827.95,
+    "low": 2806.5,
+    "close": 2827.75,
+    "depth": {
+      "buy": [
+        {
+          "price": 2816.25,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 2816.1,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 2816.05,
+          "orders": 2,
+          "quantity": 9
+        },
+        {
+          "price": 2816.0,
+          "orders": 2,
+          "quantity": 5
+        },
+        {
+          "price": 2815.95,
+          "orders": 1,
+          "quantity": 3
+        }
+      ],
+      "sell": [
+        {
+          "price": 2816.3,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 2816.6,
+          "orders": 3,
+          "quantity": 119
+        },
+        {
+          "price": 2816.7,
+          "orders": 3,
+          "quantity": 264
+        },
+        {
+          "price": 2816.8,
+          "orders": 1,
+          "quantity": 6
+        },
+        {
+          "price": 2816.9,
+          "orders": 1,
+          "quantity": 29
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:06.342408",
+    "instrument_token": 128002564,
+    "last_price": 1636.55,
+    "volume": 27461,
+    "sell_quantity": 30003,
+    "last_quantity": 8,
+    "change": -1.03706839209,
+    "average_price": 1638.19,
+    "open": 1653.7,
+    "high": 1653.7,
+    "low": 1634.5,
+    "close": 1653.7,
+    "depth": {
+      "buy": [
+        {
+          "price": 1637.15,
+          "orders": 1,
+          "quantity": 23
+        },
+        {
+          "price": 1636.6,
+          "orders": 1,
+          "quantity": 108
+        },
+        {
+          "price": 1636.55,
+          "orders": 1,
+          "quantity": 43
+        },
+        {
+          "price": 1636.5,
+          "orders": 1,
+          "quantity": 11
+        },
+        {
+          "price": 1636.45,
+          "orders": 1,
+          "quantity": 15
+        }
+      ],
+      "sell": [
+        {
+          "price": 1637.65,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 1637.75,
+          "orders": 2,
+          "quantity": 402
+        },
+        {
+          "price": 1638.0,
+          "orders": 3,
+          "quantity": 415
+        },
+        {
+          "price": 1638.15,
+          "orders": 1,
+          "quantity": 35
+        },
+        {
+          "price": 1638.2,
+          "orders": 2,
+          "quantity": 88
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:06.342435",
+    "instrument_token": 2714625,
+    "last_price": 366.8,
+    "volume": 848645,
+    "sell_quantity": 306496,
+    "last_quantity": 4,
+    "change": -0.190476190476,
+    "average_price": 368.03,
+    "open": 368.75,
+    "high": 370.85,
+    "low": 366.1,
+    "close": 367.5,
+    "depth": {
+      "buy": [
+        {
+          "price": 366.75,
+          "orders": 12,
+          "quantity": 122
+        },
+        {
+          "price": 366.55,
+          "orders": 5,
+          "quantity": 248
+        },
+        {
+          "price": 366.5,
+          "orders": 3,
+          "quantity": 1278
+        },
+        {
+          "price": 366.45,
+          "orders": 2,
+          "quantity": 771
+        },
+        {
+          "price": 366.4,
+          "orders": 5,
+          "quantity": 887
+        }
+      ],
+      "sell": [
+        {
+          "price": 366.8,
+          "orders": 1,
+          "quantity": 31
+        },
+        {
+          "price": 366.9,
+          "orders": 2,
+          "quantity": 115
+        },
+        {
+          "price": 366.95,
+          "orders": 2,
+          "quantity": 171
+        },
+        {
+          "price": 367.0,
+          "orders": 4,
+          "quantity": 613
+        },
+        {
+          "price": 367.05,
+          "orders": 2,
+          "quantity": 913
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:06.342461",
+    "instrument_token": 60417,
+    "last_price": 1149.15,
+    "volume": 435501,
+    "sell_quantity": 116773,
+    "last_quantity": 1,
+    "change": -0.433219252264,
+    "average_price": 1149.49,
+    "open": 1155.1,
+    "high": 1156.85,
+    "low": 1146.75,
+    "close": 1154.15,
+    "depth": {
+      "buy": [
+        {
+          "price": 1149.15,
+          "orders": 2,
+          "quantity": 12
+        },
+        {
+          "price": 1149.1,
+          "orders": 1,
+          "quantity": 11
+        },
+        {
+          "price": 1149.05,
+          "orders": 1,
+          "quantity": 35
+        },
+        {
+          "price": 1148.9,
+          "orders": 2,
+          "quantity": 168
+        },
+        {
+          "price": 1148.85,
+          "orders": 2,
+          "quantity": 173
+        }
+      ],
+      "sell": [
+        {
+          "price": 1149.55,
+          "orders": 8,
+          "quantity": 54
+        },
+        {
+          "price": 1149.6,
+          "orders": 6,
+          "quantity": 15
+        },
+        {
+          "price": 1149.65,
+          "orders": 2,
+          "quantity": 262
+        },
+        {
+          "price": 1149.7,
+          "orders": 1,
+          "quantity": 50
+        },
+        {
+          "price": 1149.9,
+          "orders": 1,
+          "quantity": 500
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:06.342487",
+    "instrument_token": 232961,
+    "last_price": 28065.0,
+    "volume": 15512,
+    "sell_quantity": 8434,
+    "last_quantity": 1,
+    "change": -1.33660512143,
+    "average_price": 28253.0,
+    "open": 28624.8,
+    "high": 28728.0,
+    "low": 28035.5,
+    "close": 28445.2,
+    "depth": {
+      "buy": [
+        {
+          "price": 28053.3,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 28053.25,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 28052.8,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 28052.25,
+          "orders": 2,
+          "quantity": 11
+        },
+        {
+          "price": 28052.2,
+          "orders": 1,
+          "quantity": 8
+        }
+      ],
+      "sell": [
+        {
+          "price": 28065.0,
+          "orders": 2,
+          "quantity": 10
+        },
+        {
+          "price": 28066.5,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 28069.95,
+          "orders": 1,
+          "quantity": 5
+        },
+        {
+          "price": 28070.0,
+          "orders": 3,
+          "quantity": 40
+        },
+        {
+          "price": 28077.2,
+          "orders": 1,
+          "quantity": 1
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:06.342514",
+    "instrument_token": 128112644,
+    "last_price": 201.6,
+    "volume": 292840,
+    "sell_quantity": 134212,
+    "last_quantity": 63,
+    "change": 0.448430493274,
+    "average_price": 201.25,
+    "open": 201.4,
+    "high": 202.9,
+    "low": 199.5,
+    "close": 200.7,
+    "depth": {
+      "buy": [
+        {
+          "price": 201.6,
+          "orders": 4,
+          "quantity": 3871
+        },
+        {
+          "price": 201.55,
+          "orders": 4,
+          "quantity": 3011
+        },
+        {
+          "price": 201.5,
+          "orders": 6,
+          "quantity": 2390
+        },
+        {
+          "price": 201.45,
+          "orders": 9,
+          "quantity": 5609
+        },
+        {
+          "price": 201.4,
+          "orders": 8,
+          "quantity": 2917
+        }
+      ],
+      "sell": [
+        {
+          "price": 201.65,
+          "orders": 1,
+          "quantity": 100
+        },
+        {
+          "price": 201.7,
+          "orders": 2,
+          "quantity": 252
+        },
+        {
+          "price": 201.75,
+          "orders": 3,
+          "quantity": 1146
+        },
+        {
+          "price": 201.8,
+          "orders": 8,
+          "quantity": 2660
+        },
+        {
+          "price": 201.85,
+          "orders": 6,
+          "quantity": 2728
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:06.342541",
+    "instrument_token": 134657,
+    "last_price": 666.15,
+    "volume": 1558267,
+    "sell_quantity": 245629,
+    "last_quantity": 2,
+    "change": -0.149891328787,
+    "average_price": 667.49,
+    "open": 668.05,
+    "high": 671.85,
+    "low": 662.2,
+    "close": 667.15,
+    "depth": {
+      "buy": [
+        {
+          "price": 666.15,
+          "orders": 4,
+          "quantity": 536
+        },
+        {
+          "price": 665.9,
+          "orders": 2,
+          "quantity": 65
+        },
+        {
+          "price": 665.85,
+          "orders": 1,
+          "quantity": 127
+        },
+        {
+          "price": 665.8,
+          "orders": 2,
+          "quantity": 272
+        },
+        {
+          "price": 665.75,
+          "orders": 2,
+          "quantity": 137
+        }
+      ],
+      "sell": [
+        {
+          "price": 666.4,
+          "orders": 2,
+          "quantity": 183
+        },
+        {
+          "price": 666.45,
+          "orders": 1,
+          "quantity": 131
+        },
+        {
+          "price": 666.5,
+          "orders": 2,
+          "quantity": 132
+        },
+        {
+          "price": 666.6,
+          "orders": 1,
+          "quantity": 254
+        },
+        {
+          "price": 666.65,
+          "orders": 1,
+          "quantity": 27
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:06.342567",
+    "instrument_token": 341249,
+    "last_price": 1686.05,
+    "volume": 437172,
+    "sell_quantity": 116714,
+    "last_quantity": 239,
+    "change": -0.404631106386,
+    "average_price": 1685.84,
+    "open": 1690.0,
+    "high": 1690.8,
+    "low": 1683.4,
+    "close": 1692.9,
+    "depth": {
+      "buy": [
+        {
+          "price": 1686.0,
+          "orders": 1,
+          "quantity": 159
+        },
+        {
+          "price": 1685.9,
+          "orders": 1,
+          "quantity": 100
+        },
+        {
+          "price": 1685.75,
+          "orders": 1,
+          "quantity": 30
+        },
+        {
+          "price": 1685.7,
+          "orders": 1,
+          "quantity": 208
+        },
+        {
+          "price": 1685.6,
+          "orders": 1,
+          "quantity": 167
+        }
+      ],
+      "sell": [
+        {
+          "price": 1686.05,
+          "orders": 1,
+          "quantity": 72
+        },
+        {
+          "price": 1686.15,
+          "orders": 1,
+          "quantity": 53
+        },
+        {
+          "price": 1686.2,
+          "orders": 1,
+          "quantity": 35
+        },
+        {
+          "price": 1686.5,
+          "orders": 1,
+          "quantity": 400
+        },
+        {
+          "price": 1686.85,
+          "orders": 1,
+          "quantity": 60
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:06.342604",
+    "instrument_token": 5633,
+    "last_price": 1650.45,
+    "volume": 109857,
+    "sell_quantity": 63012,
+    "last_quantity": 7,
+    "change": 0.539108187135,
+    "average_price": 1644.55,
+    "open": 1644.8,
+    "high": 1654.0,
+    "low": 1630.3,
+    "close": 1641.6,
+    "depth": {
+      "buy": [
+        {
+          "price": 1650.45,
+          "orders": 1,
+          "quantity": 88
+        },
+        {
+          "price": 1650.0,
+          "orders": 3,
+          "quantity": 72
+        },
+        {
+          "price": 1649.75,
+          "orders": 1,
+          "quantity": 10
+        },
+        {
+          "price": 1649.7,
+          "orders": 2,
+          "quantity": 36
+        },
+        {
+          "price": 1649.2,
+          "orders": 1,
+          "quantity": 54
+        }
+      ],
+      "sell": [
+        {
+          "price": 1650.65,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 1650.7,
+          "orders": 1,
+          "quantity": 400
+        },
+        {
+          "price": 1650.9,
+          "orders": 1,
+          "quantity": 6
+        },
+        {
+          "price": 1650.95,
+          "orders": 2,
+          "quantity": 18
+        },
+        {
+          "price": 1651.0,
+          "orders": 1,
+          "quantity": 2
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:07.362151",
+    "instrument_token": 128108804,
+    "last_price": 239.8,
+    "volume": 87646,
+    "sell_quantity": 167102,
+    "last_quantity": 190,
+    "change": 0.989682038324,
+    "average_price": 239.49,
+    "open": 237.5,
+    "high": 241.3,
+    "low": 236.65,
+    "close": 237.45,
+    "depth": {
+      "buy": [
+        {
+          "price": 239.7,
+          "orders": 5,
+          "quantity": 1580
+        },
+        {
+          "price": 239.65,
+          "orders": 5,
+          "quantity": 1288
+        },
+        {
+          "price": 239.6,
+          "orders": 3,
+          "quantity": 371
+        },
+        {
+          "price": 239.55,
+          "orders": 3,
+          "quantity": 768
+        },
+        {
+          "price": 239.5,
+          "orders": 6,
+          "quantity": 1169
+        }
+      ],
+      "sell": [
+        {
+          "price": 239.95,
+          "orders": 2,
+          "quantity": 573
+        },
+        {
+          "price": 240.05,
+          "orders": 1,
+          "quantity": 400
+        },
+        {
+          "price": 240.1,
+          "orders": 4,
+          "quantity": 478
+        },
+        {
+          "price": 240.15,
+          "orders": 2,
+          "quantity": 215
+        },
+        {
+          "price": 240.2,
+          "orders": 5,
+          "quantity": 709
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:07.362221",
+    "instrument_token": 1510401,
+    "last_price": 513.2,
+    "volume": 2263552,
+    "sell_quantity": 548334,
+    "last_quantity": 6,
+    "change": -1.33615303278,
+    "average_price": 517.92,
+    "open": 520.2,
+    "high": 521.7,
+    "low": 512.25,
+    "close": 520.15,
+    "depth": {
+      "buy": [
+        {
+          "price": 513.15,
+          "orders": 4,
+          "quantity": 275
+        },
+        {
+          "price": 513.1,
+          "orders": 5,
+          "quantity": 822
+        },
+        {
+          "price": 513.0,
+          "orders": 9,
+          "quantity": 2388
+        },
+        {
+          "price": 512.95,
+          "orders": 2,
+          "quantity": 270
+        },
+        {
+          "price": 512.9,
+          "orders": 7,
+          "quantity": 2384
+        }
+      ],
+      "sell": [
+        {
+          "price": 513.35,
+          "orders": 1,
+          "quantity": 20
+        },
+        {
+          "price": 513.4,
+          "orders": 7,
+          "quantity": 1872
+        },
+        {
+          "price": 513.45,
+          "orders": 5,
+          "quantity": 1188
+        },
+        {
+          "price": 513.5,
+          "orders": 6,
+          "quantity": 2451
+        },
+        {
+          "price": 513.55,
+          "orders": 5,
+          "quantity": 1540
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:07.362253",
+    "instrument_token": 3861249,
+    "last_price": 375.25,
+    "volume": 2963887,
+    "sell_quantity": 328469,
+    "last_quantity": 1,
+    "change": 0.387907972178,
+    "average_price": 374.51,
+    "open": 375.6,
+    "high": 377.7,
+    "low": 370.1,
+    "close": 373.8,
+    "depth": {
+      "buy": [
+        {
+          "price": 375.15,
+          "orders": 4,
+          "quantity": 388
+        },
+        {
+          "price": 375.1,
+          "orders": 1,
+          "quantity": 130
+        },
+        {
+          "price": 375.05,
+          "orders": 3,
+          "quantity": 398
+        },
+        {
+          "price": 375.0,
+          "orders": 8,
+          "quantity": 2365
+        },
+        {
+          "price": 374.95,
+          "orders": 2,
+          "quantity": 390
+        }
+      ],
+      "sell": [
+        {
+          "price": 375.2,
+          "orders": 1,
+          "quantity": 33
+        },
+        {
+          "price": 375.3,
+          "orders": 2,
+          "quantity": 104
+        },
+        {
+          "price": 375.35,
+          "orders": 2,
+          "quantity": 4999
+        },
+        {
+          "price": 375.4,
+          "orders": 3,
+          "quantity": 1778
+        },
+        {
+          "price": 375.45,
+          "orders": 4,
+          "quantity": 636
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:07.362281",
+    "instrument_token": 4267265,
+    "last_price": 2816.3,
+    "volume": 173562,
+    "sell_quantity": 71974,
+    "last_quantity": 4,
+    "change": -0.404915568915,
+    "average_price": 2817.02,
+    "open": 2810.0,
+    "high": 2827.95,
+    "low": 2806.5,
+    "close": 2827.75,
+    "depth": {
+      "buy": [
+        {
+          "price": 2816.1,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 2816.05,
+          "orders": 2,
+          "quantity": 9
+        },
+        {
+          "price": 2816.0,
+          "orders": 2,
+          "quantity": 5
+        },
+        {
+          "price": 2815.95,
+          "orders": 1,
+          "quantity": 3
+        },
+        {
+          "price": 2815.1,
+          "orders": 1,
+          "quantity": 10
+        }
+      ],
+      "sell": [
+        {
+          "price": 2816.3,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 2816.6,
+          "orders": 3,
+          "quantity": 119
+        },
+        {
+          "price": 2816.7,
+          "orders": 3,
+          "quantity": 264
+        },
+        {
+          "price": 2816.8,
+          "orders": 1,
+          "quantity": 6
+        },
+        {
+          "price": 2816.9,
+          "orders": 1,
+          "quantity": 29
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:07.362308",
+    "instrument_token": 70401,
+    "last_price": 658.0,
+    "volume": 1664167,
+    "sell_quantity": 375689,
+    "last_quantity": 40,
+    "change": 0.396704302716,
+    "average_price": 659.56,
+    "open": 660.0,
+    "high": 663.0,
+    "low": 653.5,
+    "close": 655.4,
+    "depth": {
+      "buy": [
+        {
+          "price": 657.95,
+          "orders": 4,
+          "quantity": 30
+        },
+        {
+          "price": 657.8,
+          "orders": 1,
+          "quantity": 61
+        },
+        {
+          "price": 657.7,
+          "orders": 1,
+          "quantity": 150
+        },
+        {
+          "price": 657.65,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 657.55,
+          "orders": 1,
+          "quantity": 20
+        }
+      ],
+      "sell": [
+        {
+          "price": 658.0,
+          "orders": 4,
+          "quantity": 225
+        },
+        {
+          "price": 658.1,
+          "orders": 1,
+          "quantity": 20
+        },
+        {
+          "price": 658.15,
+          "orders": 2,
+          "quantity": 68
+        },
+        {
+          "price": 658.2,
+          "orders": 3,
+          "quantity": 746
+        },
+        {
+          "price": 658.35,
+          "orders": 1,
+          "quantity": 402
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:07.362336",
+    "instrument_token": 315393,
+    "last_price": 1138.4,
+    "volume": 805212,
+    "sell_quantity": 85395,
+    "last_quantity": 2,
+    "change": 1.88848115994,
+    "average_price": 1135.39,
+    "open": 1124.8,
+    "high": 1141.0,
+    "low": 1120.1,
+    "close": 1117.3,
+    "depth": {
+      "buy": [
+        {
+          "price": 1138.4,
+          "orders": 3,
+          "quantity": 32
+        },
+        {
+          "price": 1138.35,
+          "orders": 2,
+          "quantity": 23
+        },
+        {
+          "price": 1138.2,
+          "orders": 3,
+          "quantity": 300
+        },
+        {
+          "price": 1138.15,
+          "orders": 1,
+          "quantity": 182
+        },
+        {
+          "price": 1138.1,
+          "orders": 1,
+          "quantity": 182
+        }
+      ],
+      "sell": [
+        {
+          "price": 1139.0,
+          "orders": 3,
+          "quantity": 47
+        },
+        {
+          "price": 1139.15,
+          "orders": 1,
+          "quantity": 31
+        },
+        {
+          "price": 1139.25,
+          "orders": 1,
+          "quantity": 12
+        },
+        {
+          "price": 1139.35,
+          "orders": 1,
+          "quantity": 29
+        },
+        {
+          "price": 1139.4,
+          "orders": 2,
+          "quantity": 282
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:07.362363",
+    "instrument_token": 134657,
+    "last_price": 666.15,
+    "volume": 1558267,
+    "sell_quantity": 245629,
+    "last_quantity": 2,
+    "change": -0.149891328787,
+    "average_price": 667.49,
+    "open": 668.05,
+    "high": 671.85,
+    "low": 662.2,
+    "close": 667.15,
+    "depth": {
+      "buy": [
+        {
+          "price": 666.15,
+          "orders": 4,
+          "quantity": 536
+        },
+        {
+          "price": 665.9,
+          "orders": 2,
+          "quantity": 65
+        },
+        {
+          "price": 665.85,
+          "orders": 1,
+          "quantity": 127
+        },
+        {
+          "price": 665.8,
+          "orders": 2,
+          "quantity": 272
+        },
+        {
+          "price": 665.75,
+          "orders": 2,
+          "quantity": 137
+        }
+      ],
+      "sell": [
+        {
+          "price": 666.4,
+          "orders": 2,
+          "quantity": 183
+        },
+        {
+          "price": 666.45,
+          "orders": 1,
+          "quantity": 131
+        },
+        {
+          "price": 666.5,
+          "orders": 2,
+          "quantity": 132
+        },
+        {
+          "price": 666.6,
+          "orders": 1,
+          "quantity": 254
+        },
+        {
+          "price": 666.65,
+          "orders": 1,
+          "quantity": 27
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:07.362389",
+    "instrument_token": 128022276,
+    "last_price": 540.6,
+    "volume": 22033,
+    "sell_quantity": 33284,
+    "last_quantity": 75,
+    "change": 0.268941852917,
+    "average_price": 542.42,
+    "open": 541.8,
+    "high": 545.0,
+    "low": 536.0,
+    "close": 539.15,
+    "depth": {
+      "buy": [
+        {
+          "price": 540.55,
+          "orders": 1,
+          "quantity": 70
+        },
+        {
+          "price": 540.5,
+          "orders": 3,
+          "quantity": 560
+        },
+        {
+          "price": 540.45,
+          "orders": 2,
+          "quantity": 39
+        },
+        {
+          "price": 540.4,
+          "orders": 5,
+          "quantity": 1103
+        },
+        {
+          "price": 540.35,
+          "orders": 1,
+          "quantity": 188
+        }
+      ],
+      "sell": [
+        {
+          "price": 541.2,
+          "orders": 2,
+          "quantity": 127
+        },
+        {
+          "price": 541.25,
+          "orders": 1,
+          "quantity": 187
+        },
+        {
+          "price": 541.4,
+          "orders": 2,
+          "quantity": 86
+        },
+        {
+          "price": 541.5,
+          "orders": 7,
+          "quantity": 500
+        },
+        {
+          "price": 541.55,
+          "orders": 3,
+          "quantity": 543
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:07.362416",
+    "instrument_token": 128135684,
+    "last_price": 24878.1,
+    "volume": 270,
+    "sell_quantity": 398,
+    "last_quantity": 1,
+    "change": -0.461919175147,
+    "average_price": 24954.02,
+    "open": 25056.0,
+    "high": 25091.75,
+    "low": 24800.0,
+    "close": 24993.55,
+    "depth": {
+      "buy": [
+        {
+          "price": 24841.45,
+          "orders": 2,
+          "quantity": 4
+        },
+        {
+          "price": 24819.9,
+          "orders": 2,
+          "quantity": 7
+        },
+        {
+          "price": 24819.85,
+          "orders": 1,
+          "quantity": 4
+        },
+        {
+          "price": 24818.3,
+          "orders": 1,
+          "quantity": 16
+        },
+        {
+          "price": 24815.45,
+          "orders": 1,
+          "quantity": 8
+        }
+      ],
+      "sell": [
+        {
+          "price": 24878.45,
+          "orders": 2,
+          "quantity": 4
+        },
+        {
+          "price": 24879.9,
+          "orders": 1,
+          "quantity": 6
+        },
+        {
+          "price": 24880.0,
+          "orders": 1,
+          "quantity": 16
+        },
+        {
+          "price": 24896.3,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 24896.35,
+          "orders": 1,
+          "quantity": 4
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:07.362443",
+    "instrument_token": 345089,
+    "last_price": 3801.8,
+    "volume": 134948,
+    "sell_quantity": 51014,
+    "last_quantity": 7,
+    "change": -0.618227920898,
+    "average_price": 3814.52,
+    "open": 3829.0,
+    "high": 3846.9,
+    "low": 3799.0,
+    "close": 3825.45,
+    "depth": {
+      "buy": [
+        {
+          "price": 3801.5,
+          "orders": 4,
+          "quantity": 23
+        },
+        {
+          "price": 3801.45,
+          "orders": 8,
+          "quantity": 15
+        },
+        {
+          "price": 3801.4,
+          "orders": 1,
+          "quantity": 30
+        },
+        {
+          "price": 3800.75,
+          "orders": 4,
+          "quantity": 18
+        },
+        {
+          "price": 3800.1,
+          "orders": 2,
+          "quantity": 78
+        }
+      ],
+      "sell": [
+        {
+          "price": 3801.8,
+          "orders": 3,
+          "quantity": 21
+        },
+        {
+          "price": 3801.9,
+          "orders": 1,
+          "quantity": 3
+        },
+        {
+          "price": 3802.0,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 3802.8,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 3803.0,
+          "orders": 2,
+          "quantity": 57
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:07.362470",
+    "instrument_token": 1195009,
+    "last_price": 166.85,
+    "volume": 4487807,
+    "sell_quantity": 870431,
+    "last_quantity": 77,
+    "change": -0.714073192502,
+    "average_price": 166.76,
+    "open": 168.0,
+    "high": 168.6,
+    "low": 165.5,
+    "close": 168.05,
+    "depth": {
+      "buy": [
+        {
+          "price": 166.85,
+          "orders": 1,
+          "quantity": 200
+        },
+        {
+          "price": 166.8,
+          "orders": 13,
+          "quantity": 4124
+        },
+        {
+          "price": 166.75,
+          "orders": 11,
+          "quantity": 8681
+        },
+        {
+          "price": 166.7,
+          "orders": 14,
+          "quantity": 5830
+        },
+        {
+          "price": 166.65,
+          "orders": 7,
+          "quantity": 6612
+        }
+      ],
+      "sell": [
+        {
+          "price": 166.9,
+          "orders": 2,
+          "quantity": 124
+        },
+        {
+          "price": 166.95,
+          "orders": 17,
+          "quantity": 4642
+        },
+        {
+          "price": 167.0,
+          "orders": 19,
+          "quantity": 6949
+        },
+        {
+          "price": 167.05,
+          "orders": 11,
+          "quantity": 4270
+        },
+        {
+          "price": 167.1,
+          "orders": 18,
+          "quantity": 8168
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:07.362498",
+    "instrument_token": 128209924,
+    "last_price": 1149.9,
+    "volume": 13845,
+    "sell_quantity": 18205,
+    "last_quantity": 2,
+    "change": -0.325055259394,
+    "average_price": 1150.25,
+    "open": 1158.0,
+    "high": 1158.0,
+    "low": 1147.05,
+    "close": 1153.65,
+    "depth": {
+      "buy": [
+        {
+          "price": 1149.4,
+          "orders": 1,
+          "quantity": 24
+        },
+        {
+          "price": 1149.35,
+          "orders": 2,
+          "quantity": 34
+        },
+        {
+          "price": 1149.3,
+          "orders": 1,
+          "quantity": 6
+        },
+        {
+          "price": 1149.25,
+          "orders": 2,
+          "quantity": 163
+        },
+        {
+          "price": 1149.1,
+          "orders": 1,
+          "quantity": 24
+        }
+      ],
+      "sell": [
+        {
+          "price": 1149.9,
+          "orders": 1,
+          "quantity": 31
+        },
+        {
+          "price": 1149.95,
+          "orders": 1,
+          "quantity": 51
+        },
+        {
+          "price": 1150.0,
+          "orders": 1,
+          "quantity": 5
+        },
+        {
+          "price": 1150.45,
+          "orders": 1,
+          "quantity": 37
+        },
+        {
+          "price": 1150.5,
+          "orders": 2,
+          "quantity": 137
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:07.362527",
+    "instrument_token": 7458561,
+    "last_price": 378.95,
+    "volume": 1080539,
+    "sell_quantity": 248681,
+    "last_quantity": 1,
+    "change": 0.637365555703,
+    "average_price": 378.62,
+    "open": 377.15,
+    "high": 381.5,
+    "low": 375.7,
+    "close": 376.55,
+    "depth": {
+      "buy": [
+        {
+          "price": 378.8,
+          "orders": 2,
+          "quantity": 227
+        },
+        {
+          "price": 378.75,
+          "orders": 1,
+          "quantity": 71
+        },
+        {
+          "price": 378.7,
+          "orders": 1,
+          "quantity": 20
+        },
+        {
+          "price": 378.65,
+          "orders": 6,
+          "quantity": 1655
+        },
+        {
+          "price": 378.6,
+          "orders": 3,
+          "quantity": 1140
+        }
+      ],
+      "sell": [
+        {
+          "price": 379.0,
+          "orders": 1,
+          "quantity": 10
+        },
+        {
+          "price": 379.15,
+          "orders": 1,
+          "quantity": 100
+        },
+        {
+          "price": 379.2,
+          "orders": 2,
+          "quantity": 659
+        },
+        {
+          "price": 379.25,
+          "orders": 3,
+          "quantity": 409
+        },
+        {
+          "price": 379.3,
+          "orders": 6,
+          "quantity": 660
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:07.362554",
+    "instrument_token": 356865,
+    "last_price": 1098.8,
+    "volume": 543122,
+    "sell_quantity": 103235,
+    "last_quantity": 2,
+    "change": 0.287500570438,
+    "average_price": 1096.06,
+    "open": 1098.85,
+    "high": 1100.0,
+    "low": 1092.0,
+    "close": 1095.65,
+    "depth": {
+      "buy": [
+        {
+          "price": 1098.8,
+          "orders": 2,
+          "quantity": 3
+        },
+        {
+          "price": 1098.65,
+          "orders": 1,
+          "quantity": 45
+        },
+        {
+          "price": 1098.6,
+          "orders": 1,
+          "quantity": 56
+        },
+        {
+          "price": 1098.55,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 1098.5,
+          "orders": 3,
+          "quantity": 329
+        }
+      ],
+      "sell": [
+        {
+          "price": 1098.85,
+          "orders": 2,
+          "quantity": 19
+        },
+        {
+          "price": 1098.9,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 1099.45,
+          "orders": 2,
+          "quantity": 32
+        },
+        {
+          "price": 1099.5,
+          "orders": 3,
+          "quantity": 47
+        },
+        {
+          "price": 1099.55,
+          "orders": 1,
+          "quantity": 9
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:07.362581",
+    "instrument_token": 325121,
+    "last_price": 240.05,
+    "volume": 980886,
+    "sell_quantity": 401346,
+    "last_quantity": 34,
+    "change": 0.946173254836,
+    "average_price": 239.83,
+    "open": 238.0,
+    "high": 241.55,
+    "low": 236.5,
+    "close": 237.8,
+    "depth": {
+      "buy": [
+        {
+          "price": 240.0,
+          "orders": 4,
+          "quantity": 2758
+        },
+        {
+          "price": 239.95,
+          "orders": 3,
+          "quantity": 277
+        },
+        {
+          "price": 239.9,
+          "orders": 2,
+          "quantity": 612
+        },
+        {
+          "price": 239.85,
+          "orders": 4,
+          "quantity": 1737
+        },
+        {
+          "price": 239.8,
+          "orders": 10,
+          "quantity": 5323
+        }
+      ],
+      "sell": [
+        {
+          "price": 240.1,
+          "orders": 1,
+          "quantity": 42
+        },
+        {
+          "price": 240.15,
+          "orders": 3,
+          "quantity": 2902
+        },
+        {
+          "price": 240.2,
+          "orders": 2,
+          "quantity": 402
+        },
+        {
+          "price": 240.25,
+          "orders": 4,
+          "quantity": 4545
+        },
+        {
+          "price": 240.3,
+          "orders": 5,
+          "quantity": 3762
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:07.362607",
+    "instrument_token": 348929,
+    "last_price": 201.6,
+    "volume": 4674160,
+    "sell_quantity": 1016690,
+    "last_quantity": 27,
+    "change": 0.373412994772,
+    "average_price": 201.14,
+    "open": 201.95,
+    "high": 202.9,
+    "low": 199.4,
+    "close": 200.85,
+    "depth": {
+      "buy": [
+        {
+          "price": 201.6,
+          "orders": 5,
+          "quantity": 2837
+        },
+        {
+          "price": 201.55,
+          "orders": 12,
+          "quantity": 10193
+        },
+        {
+          "price": 201.5,
+          "orders": 14,
+          "quantity": 13429
+        },
+        {
+          "price": 201.45,
+          "orders": 7,
+          "quantity": 10383
+        },
+        {
+          "price": 201.4,
+          "orders": 17,
+          "quantity": 13602
+        }
+      ],
+      "sell": [
+        {
+          "price": 201.65,
+          "orders": 2,
+          "quantity": 39
+        },
+        {
+          "price": 201.7,
+          "orders": 5,
+          "quantity": 1012
+        },
+        {
+          "price": 201.75,
+          "orders": 15,
+          "quantity": 4879
+        },
+        {
+          "price": 201.8,
+          "orders": 12,
+          "quantity": 5032
+        },
+        {
+          "price": 201.85,
+          "orders": 14,
+          "quantity": 17683
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:07.362634",
+    "instrument_token": 136226308,
+    "last_price": 166.9,
+    "volume": 310411,
+    "sell_quantity": 89086,
+    "last_quantity": 100,
+    "change": -0.654761904762,
+    "average_price": 167.08,
+    "open": 168.95,
+    "high": 168.95,
+    "low": 165.65,
+    "close": 168.0,
+    "depth": {
+      "buy": [
+        {
+          "price": 166.95,
+          "orders": 4,
+          "quantity": 2198
+        },
+        {
+          "price": 166.9,
+          "orders": 8,
+          "quantity": 2399
+        },
+        {
+          "price": 166.85,
+          "orders": 10,
+          "quantity": 3920
+        },
+        {
+          "price": 166.8,
+          "orders": 9,
+          "quantity": 3178
+        },
+        {
+          "price": 166.75,
+          "orders": 5,
+          "quantity": 2097
+        }
+      ],
+      "sell": [
+        {
+          "price": 167.1,
+          "orders": 3,
+          "quantity": 547
+        },
+        {
+          "price": 167.15,
+          "orders": 2,
+          "quantity": 901
+        },
+        {
+          "price": 167.2,
+          "orders": 5,
+          "quantity": 1961
+        },
+        {
+          "price": 167.25,
+          "orders": 6,
+          "quantity": 2892
+        },
+        {
+          "price": 167.3,
+          "orders": 14,
+          "quantity": 3383
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:07.362684",
+    "instrument_token": 5215745,
+    "last_price": 253.8,
+    "volume": 538254,
+    "sell_quantity": 370374,
+    "last_quantity": 15,
+    "change": -0.0590667454223,
+    "average_price": 253.82,
+    "open": 254.45,
+    "high": 255.0,
+    "low": 253.0,
+    "close": 253.95,
+    "depth": {
+      "buy": [
+        {
+          "price": 253.75,
+          "orders": 7,
+          "quantity": 160
+        },
+        {
+          "price": 253.7,
+          "orders": 7,
+          "quantity": 1097
+        },
+        {
+          "price": 253.65,
+          "orders": 3,
+          "quantity": 451
+        },
+        {
+          "price": 253.6,
+          "orders": 6,
+          "quantity": 574
+        },
+        {
+          "price": 253.55,
+          "orders": 4,
+          "quantity": 1300
+        }
+      ],
+      "sell": [
+        {
+          "price": 253.8,
+          "orders": 5,
+          "quantity": 560
+        },
+        {
+          "price": 253.85,
+          "orders": 1,
+          "quantity": 34
+        },
+        {
+          "price": 253.9,
+          "orders": 8,
+          "quantity": 1325
+        },
+        {
+          "price": 253.95,
+          "orders": 7,
+          "quantity": 1393
+        },
+        {
+          "price": 254.0,
+          "orders": 12,
+          "quantity": 4442
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:07.362714",
+    "instrument_token": 1850625,
+    "last_price": 849.9,
+    "volume": 527008,
+    "sell_quantity": 129403,
+    "last_quantity": 1,
+    "change": 0.878338278932,
+    "average_price": 849.37,
+    "open": 845.0,
+    "high": 851.9,
+    "low": 843.0,
+    "close": 842.5,
+    "depth": {
+      "buy": [
+        {
+          "price": 849.6,
+          "orders": 1,
+          "quantity": 22
+        },
+        {
+          "price": 849.35,
+          "orders": 1,
+          "quantity": 16
+        },
+        {
+          "price": 849.25,
+          "orders": 1,
+          "quantity": 58
+        },
+        {
+          "price": 849.2,
+          "orders": 3,
+          "quantity": 132
+        },
+        {
+          "price": 849.15,
+          "orders": 2,
+          "quantity": 88
+        }
+      ],
+      "sell": [
+        {
+          "price": 849.9,
+          "orders": 2,
+          "quantity": 47
+        },
+        {
+          "price": 849.95,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 850.0,
+          "orders": 2,
+          "quantity": 1405
+        },
+        {
+          "price": 850.1,
+          "orders": 1,
+          "quantity": 24
+        },
+        {
+          "price": 850.15,
+          "orders": 1,
+          "quantity": 500
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:07.362740",
+    "instrument_token": 128046596,
+    "last_price": 3802.4,
+    "volume": 6403,
+    "sell_quantity": 7343,
+    "last_quantity": 6,
+    "change": -0.618130970583,
+    "average_price": 3814.02,
+    "open": 3830.0,
+    "high": 3842.9,
+    "low": 3799.2,
+    "close": 3826.05,
+    "depth": {
+      "buy": [
+        {
+          "price": 3800.05,
+          "orders": 2,
+          "quantity": 20
+        },
+        {
+          "price": 3800.0,
+          "orders": 1,
+          "quantity": 86
+        },
+        {
+          "price": 3799.5,
+          "orders": 1,
+          "quantity": 86
+        },
+        {
+          "price": 3799.2,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 3799.0,
+          "orders": 1,
+          "quantity": 10
+        }
+      ],
+      "sell": [
+        {
+          "price": 3802.55,
+          "orders": 1,
+          "quantity": 3
+        },
+        {
+          "price": 3802.6,
+          "orders": 2,
+          "quantity": 6
+        },
+        {
+          "price": 3802.8,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 3803.3,
+          "orders": 1,
+          "quantity": 20
+        },
+        {
+          "price": 3803.4,
+          "orders": 1,
+          "quantity": 1
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:08.487587",
+    "instrument_token": 128076804,
+    "last_price": 1137.4,
+    "volume": 21956,
+    "sell_quantity": 22464,
+    "last_quantity": 2,
+    "change": 1.94496728511,
+    "average_price": 1136.26,
+    "open": 1123.05,
+    "high": 1141.0,
+    "low": 1121.05,
+    "close": 1115.7,
+    "depth": {
+      "buy": [
+        {
+          "price": 1138.0,
+          "orders": 1,
+          "quantity": 10
+        },
+        {
+          "price": 1137.8,
+          "orders": 1,
+          "quantity": 5
+        },
+        {
+          "price": 1137.6,
+          "orders": 1,
+          "quantity": 6
+        },
+        {
+          "price": 1137.45,
+          "orders": 1,
+          "quantity": 52
+        },
+        {
+          "price": 1137.4,
+          "orders": 2,
+          "quantity": 54
+        }
+      ],
+      "sell": [
+        {
+          "price": 1139.25,
+          "orders": 2,
+          "quantity": 33
+        },
+        {
+          "price": 1139.35,
+          "orders": 1,
+          "quantity": 52
+        },
+        {
+          "price": 1139.4,
+          "orders": 1,
+          "quantity": 49
+        },
+        {
+          "price": 1139.5,
+          "orders": 2,
+          "quantity": 30
+        },
+        {
+          "price": 1139.6,
+          "orders": 1,
+          "quantity": 10
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:08.487653",
+    "instrument_token": 128178180,
+    "last_price": 1098.7,
+    "volume": 10307,
+    "sell_quantity": 25176,
+    "last_quantity": 1,
+    "change": 0.301259813767,
+    "average_price": 1096.15,
+    "open": 1095.0,
+    "high": 1100.0,
+    "low": 1092.5,
+    "close": 1095.4,
+    "depth": {
+      "buy": [
+        {
+          "price": 1098.4,
+          "orders": 1,
+          "quantity": 14
+        },
+        {
+          "price": 1098.25,
+          "orders": 2,
+          "quantity": 104
+        },
+        {
+          "price": 1098.2,
+          "orders": 1,
+          "quantity": 15
+        },
+        {
+          "price": 1098.0,
+          "orders": 1,
+          "quantity": 8
+        },
+        {
+          "price": 1097.85,
+          "orders": 1,
+          "quantity": 40
+        }
+      ],
+      "sell": [
+        {
+          "price": 1099.45,
+          "orders": 1,
+          "quantity": 8
+        },
+        {
+          "price": 1099.5,
+          "orders": 1,
+          "quantity": 87
+        },
+        {
+          "price": 1099.6,
+          "orders": 1,
+          "quantity": 13
+        },
+        {
+          "price": 1099.7,
+          "orders": 1,
+          "quantity": 42
+        },
+        {
+          "price": 1099.75,
+          "orders": 1,
+          "quantity": 87
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:08.487685",
+    "instrument_token": 129331204,
+    "last_price": 28089.0,
+    "volume": 1451,
+    "sell_quantity": 420,
+    "last_quantity": 2,
+    "change": -1.3209204286,
+    "average_price": 28244.53,
+    "open": 28450.0,
+    "high": 28539.95,
+    "low": 28054.05,
+    "close": 28465.0,
+    "depth": {
+      "buy": [
+        {
+          "price": 28070.1,
+          "orders": 2,
+          "quantity": 3
+        },
+        {
+          "price": 28070.05,
+          "orders": 1,
+          "quantity": 3
+        },
+        {
+          "price": 28070.0,
+          "orders": 2,
+          "quantity": 14
+        },
+        {
+          "price": 28067.55,
+          "orders": 1,
+          "quantity": 3
+        },
+        {
+          "price": 28066.35,
+          "orders": 1,
+          "quantity": 3
+        }
+      ],
+      "sell": [
+        {
+          "price": 28090.95,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 28091.0,
+          "orders": 2,
+          "quantity": 9
+        },
+        {
+          "price": 28093.0,
+          "orders": 2,
+          "quantity": 9
+        },
+        {
+          "price": 28122.0,
+          "orders": 1,
+          "quantity": 6
+        },
+        {
+          "price": 28122.05,
+          "orders": 1,
+          "quantity": 1
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:09.494838",
+    "instrument_token": 128046596,
+    "last_price": 3802.4,
+    "volume": 6403,
+    "sell_quantity": 7710,
+    "last_quantity": 6,
+    "change": -0.618130970583,
+    "average_price": 3814.02,
+    "open": 3830.0,
+    "high": 3842.9,
+    "low": 3799.2,
+    "close": 3826.05,
+    "depth": {
+      "buy": [
+        {
+          "price": 3800.1,
+          "orders": 3,
+          "quantity": 20
+        },
+        {
+          "price": 3800.0,
+          "orders": 1,
+          "quantity": 86
+        },
+        {
+          "price": 3799.8,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 3799.55,
+          "orders": 1,
+          "quantity": 20
+        },
+        {
+          "price": 3799.5,
+          "orders": 1,
+          "quantity": 86
+        }
+      ],
+      "sell": [
+        {
+          "price": 3803.95,
+          "orders": 1,
+          "quantity": 3
+        },
+        {
+          "price": 3804.0,
+          "orders": 2,
+          "quantity": 3
+        },
+        {
+          "price": 3804.6,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 3805.05,
+          "orders": 1,
+          "quantity": 20
+        },
+        {
+          "price": 3805.1,
+          "orders": 1,
+          "quantity": 1
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:09.494910",
+    "instrument_token": 128178180,
+    "last_price": 1098.7,
+    "volume": 10307,
+    "sell_quantity": 25588,
+    "last_quantity": 1,
+    "change": 0.301259813767,
+    "average_price": 1096.15,
+    "open": 1095.0,
+    "high": 1100.0,
+    "low": 1092.5,
+    "close": 1095.4,
+    "depth": {
+      "buy": [
+        {
+          "price": 1098.5,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 1098.4,
+          "orders": 1,
+          "quantity": 14
+        },
+        {
+          "price": 1098.25,
+          "orders": 2,
+          "quantity": 104
+        },
+        {
+          "price": 1098.2,
+          "orders": 1,
+          "quantity": 15
+        },
+        {
+          "price": 1098.0,
+          "orders": 1,
+          "quantity": 8
+        }
+      ],
+      "sell": [
+        {
+          "price": 1098.9,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 1099.0,
+          "orders": 1,
+          "quantity": 87
+        },
+        {
+          "price": 1099.4,
+          "orders": 1,
+          "quantity": 14
+        },
+        {
+          "price": 1099.5,
+          "orders": 1,
+          "quantity": 87
+        },
+        {
+          "price": 1099.6,
+          "orders": 1,
+          "quantity": 13
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:09.494942",
+    "instrument_token": 340481,
+    "last_price": 1637.2,
+    "volume": 1416442,
+    "sell_quantity": 187337,
+    "last_quantity": 1,
+    "change": -1.0276870995,
+    "average_price": 1639.52,
+    "open": 1651.15,
+    "high": 1660.0,
+    "low": 1633.55,
+    "close": 1654.2,
+    "depth": {
+      "buy": [
+        {
+          "price": 1637.15,
+          "orders": 4,
+          "quantity": 19
+        },
+        {
+          "price": 1637.05,
+          "orders": 1,
+          "quantity": 141
+        },
+        {
+          "price": 1637.0,
+          "orders": 2,
+          "quantity": 246
+        },
+        {
+          "price": 1636.8,
+          "orders": 2,
+          "quantity": 519
+        },
+        {
+          "price": 1636.75,
+          "orders": 1,
+          "quantity": 500
+        }
+      ],
+      "sell": [
+        {
+          "price": 1637.2,
+          "orders": 6,
+          "quantity": 261
+        },
+        {
+          "price": 1637.25,
+          "orders": 3,
+          "quantity": 16
+        },
+        {
+          "price": 1637.3,
+          "orders": 2,
+          "quantity": 15
+        },
+        {
+          "price": 1637.4,
+          "orders": 1,
+          "quantity": 14
+        },
+        {
+          "price": 1637.5,
+          "orders": 1,
+          "quantity": 179
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:09.494970",
+    "instrument_token": 1850625,
+    "last_price": 849.6,
+    "volume": 527031,
+    "sell_quantity": 129403,
+    "last_quantity": 1,
+    "change": 0.842729970326,
+    "average_price": 849.37,
+    "open": 845.0,
+    "high": 851.9,
+    "low": 843.0,
+    "close": 842.5,
+    "depth": {
+      "buy": [
+        {
+          "price": 849.6,
+          "orders": 2,
+          "quantity": 5
+        },
+        {
+          "price": 849.35,
+          "orders": 1,
+          "quantity": 16
+        },
+        {
+          "price": 849.25,
+          "orders": 1,
+          "quantity": 58
+        },
+        {
+          "price": 849.2,
+          "orders": 2,
+          "quantity": 130
+        },
+        {
+          "price": 849.15,
+          "orders": 3,
+          "quantity": 90
+        }
+      ],
+      "sell": [
+        {
+          "price": 849.9,
+          "orders": 2,
+          "quantity": 47
+        },
+        {
+          "price": 849.95,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 850.0,
+          "orders": 2,
+          "quantity": 1405
+        },
+        {
+          "price": 850.05,
+          "orders": 1,
+          "quantity": 24
+        },
+        {
+          "price": 850.15,
+          "orders": 3,
+          "quantity": 1900
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:09.494998",
+    "instrument_token": 1207553,
+    "last_price": 377.3,
+    "volume": 1436990,
+    "sell_quantity": 252773,
+    "last_quantity": 9,
+    "change": -0.880073558387,
+    "average_price": 379.18,
+    "open": 380.65,
+    "high": 383.4,
+    "low": 375.1,
+    "close": 380.65,
+    "depth": {
+      "buy": [
+        {
+          "price": 377.2,
+          "orders": 1,
+          "quantity": 1000
+        },
+        {
+          "price": 377.15,
+          "orders": 2,
+          "quantity": 1443
+        },
+        {
+          "price": 377.1,
+          "orders": 2,
+          "quantity": 1095
+        },
+        {
+          "price": 377.05,
+          "orders": 4,
+          "quantity": 1784
+        },
+        {
+          "price": 377.0,
+          "orders": 40,
+          "quantity": 2900
+        }
+      ],
+      "sell": [
+        {
+          "price": 377.3,
+          "orders": 6,
+          "quantity": 243
+        },
+        {
+          "price": 377.35,
+          "orders": 4,
+          "quantity": 136
+        },
+        {
+          "price": 377.4,
+          "orders": 2,
+          "quantity": 139
+        },
+        {
+          "price": 377.45,
+          "orders": 2,
+          "quantity": 429
+        },
+        {
+          "price": 377.5,
+          "orders": 14,
+          "quantity": 1741
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:09.495025",
+    "instrument_token": 1510401,
+    "last_price": 513.2,
+    "volume": 2263552,
+    "sell_quantity": 548485,
+    "last_quantity": 6,
+    "change": -1.33615303278,
+    "average_price": 517.92,
+    "open": 520.2,
+    "high": 521.7,
+    "low": 512.25,
+    "close": 520.15,
+    "depth": {
+      "buy": [
+        {
+          "price": 513.15,
+          "orders": 4,
+          "quantity": 275
+        },
+        {
+          "price": 513.1,
+          "orders": 5,
+          "quantity": 822
+        },
+        {
+          "price": 513.0,
+          "orders": 10,
+          "quantity": 4388
+        },
+        {
+          "price": 512.95,
+          "orders": 2,
+          "quantity": 270
+        },
+        {
+          "price": 512.9,
+          "orders": 7,
+          "quantity": 2384
+        }
+      ],
+      "sell": [
+        {
+          "price": 513.35,
+          "orders": 3,
+          "quantity": 268
+        },
+        {
+          "price": 513.4,
+          "orders": 6,
+          "quantity": 1775
+        },
+        {
+          "price": 513.45,
+          "orders": 6,
+          "quantity": 1383
+        },
+        {
+          "price": 513.5,
+          "orders": 6,
+          "quantity": 2451
+        },
+        {
+          "price": 513.55,
+          "orders": 5,
+          "quantity": 1540
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:09.495052",
+    "instrument_token": 3861249,
+    "last_price": 375.25,
+    "volume": 2963887,
+    "sell_quantity": 328641,
+    "last_quantity": 1,
+    "change": 0.387907972178,
+    "average_price": 374.51,
+    "open": 375.6,
+    "high": 377.7,
+    "low": 370.1,
+    "close": 373.8,
+    "depth": {
+      "buy": [
+        {
+          "price": 375.15,
+          "orders": 4,
+          "quantity": 388
+        },
+        {
+          "price": 375.05,
+          "orders": 3,
+          "quantity": 398
+        },
+        {
+          "price": 375.0,
+          "orders": 8,
+          "quantity": 1803
+        },
+        {
+          "price": 374.95,
+          "orders": 2,
+          "quantity": 390
+        },
+        {
+          "price": 374.9,
+          "orders": 4,
+          "quantity": 1614
+        }
+      ],
+      "sell": [
+        {
+          "price": 375.2,
+          "orders": 2,
+          "quantity": 128
+        },
+        {
+          "price": 375.3,
+          "orders": 2,
+          "quantity": 181
+        },
+        {
+          "price": 375.35,
+          "orders": 2,
+          "quantity": 4999
+        },
+        {
+          "price": 375.4,
+          "orders": 4,
+          "quantity": 1798
+        },
+        {
+          "price": 375.45,
+          "orders": 3,
+          "quantity": 616
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:09.495079",
+    "instrument_token": 232961,
+    "last_price": 28065.0,
+    "volume": 15512,
+    "sell_quantity": 8434,
+    "last_quantity": 1,
+    "change": -1.33660512143,
+    "average_price": 28253.0,
+    "open": 28624.8,
+    "high": 28728.0,
+    "low": 28035.5,
+    "close": 28445.2,
+    "depth": {
+      "buy": [
+        {
+          "price": 28053.1,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 28052.9,
+          "orders": 1,
+          "quantity": 2
+        },
+        {
+          "price": 28052.3,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 28052.25,
+          "orders": 1,
+          "quantity": 3
+        },
+        {
+          "price": 28052.0,
+          "orders": 1,
+          "quantity": 1
+        }
+      ],
+      "sell": [
+        {
+          "price": 28065.0,
+          "orders": 2,
+          "quantity": 10
+        },
+        {
+          "price": 28066.5,
+          "orders": 1,
+          "quantity": 1
+        },
+        {
+          "price": 28069.95,
+          "orders": 1,
+          "quantity": 5
+        },
+        {
+          "price": 28070.0,
+          "orders": 3,
+          "quantity": 40
+        },
+        {
+          "price": 28077.2,
+          "orders": 1,
+          "quantity": 1
+        }
+      ]
+    }
+  },
+  {
+    "timestamp": "2017-06-20 07:35:09.495106",
+    "instrument_token": 134349828,
+    "last_price": 657.5,
+    "volume": 131636,
+    "sell_quantity": 51393,
+    "last_quantity": 10,
+    "change": 0.343380389164,
+    "average_price": 658.9,
+    "open": 660.25,
+    "high": 662.95,
+    "low": 654.0,
+    "close": 655.25,
+    "depth": {
+      "buy": [
+        {
+          "price": 657.15,
+          "orders": 1,
+          "quantity": 6
+        },
+        {
+          "price": 657.1,
+          "orders": 1,
+          "quantity": 19
+        },
+        {
+          "price": 657.05,
+          "orders": 1,
+          "quantity": 148
+        },
+        {
+          "price": 656.9,
+          "orders": 1,
+          "quantity": 25
+        },
+        {
+          "price": 656.85,
+          "orders": 1,
+          "quantity": 52
+        }
+      ],
+      "sell": [
+        {
+          "price": 657.45,
+          "orders": 2,
+          "quantity": 213
+        },
+        {
+          "price": 657.5,
+          "orders": 2,
+          "quantity": 244
+        },
+        {
+          "price": 657.7,
+          "orders": 3,
+          "quantity": 409
+        },
+        {
+          "price": 657.75,
+          "orders": 3,
+          "quantity": 447
+        },
+        {
+          "price": 657.8,
+          "orders": 2,
+          "quantity": 438
+        }
+      ]
+    }
+  }
+]

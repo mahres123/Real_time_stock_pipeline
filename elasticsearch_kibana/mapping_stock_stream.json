@@ -1,0 +1,50 @@
+{
+    "index_patterns": ["stock-stream"],
+    "template": {
+      "settings": {
+        "number_of_shards": 1,
+        "number_of_replicas": 1
+      },
+      "mappings": {
+        "properties": {
+          "timestamp": {
+            "type": "date",
+            "format": "yyyy-MM-dd HH:mm:ss||strict_date_optional_time||epoch_millis"
+          },
+          "instrument_token": {
+            "type": "keyword"
+          },
+          "last_price": {
+            "type": "float"
+          },
+          "volume": {
+            "type": "long"
+          },
+          "average_price": {
+            "type": "float"
+          },
+          "depth": {
+            "type": "nested",
+            "properties": {
+              "buy": {
+                "type": "nested",
+                "properties": {
+                  "price": { "type": "float" },
+                  "orders": { "type": "integer" },
+                  "quantity": { "type": "integer" }
+                }
+              },
+              "sell": {
+                "type": "nested",
+                "properties": {
+                  "price": { "type": "float" },
+                  "orders": { "type": "integer" },
+                  "quantity": { "type": "integer" }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
