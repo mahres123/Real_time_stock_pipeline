@@ -26,7 +26,7 @@ BigQuery ML Models
 ---
 
 ## 🗂 Structure du projet
-
+---
 Real_time_stock_pipeline/
 ├── kafka/
 │   ├── producer.py                    # Envoie les messages JSON dans Kafka
